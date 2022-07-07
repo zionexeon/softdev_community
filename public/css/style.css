@@ -1,6 +1,7 @@
 .background-navbar {
     background-color: #2b3a91;
 }
+
 .background-header {
     background-color: #ffffff;
 }
@@ -43,21 +44,26 @@
     background-color: #07187a;
     color: rgb(255, 255, 255);
 }
+
 .footer-48201 .footer-site-logo {
     font-size: 1.5rem;
     color: #fff;
 }
+
 .footer-48201 .nav-links li {
     margin-bottom: 10px;
 }
+
 .footer-48201 .nav-links li a {
     color: rgb(255, 255, 255);
     font-weight: bold;
     text-decoration: none;
 }
+
 .footer-48201 .nav-links li a:hover {
     color: #dc3545;
 }
+
 .footer-48201 .btn.btn-tertiary {
     background-color: #4f76cf;
     color: #fff;
@@ -65,6 +71,7 @@
     border: none;
     padding: 10px 20px;
 }
+
 .footer-48201 .btn.btn-tertiary:hover {
     background-color: #dc3545;
     color: #fff;
@@ -72,16 +79,57 @@
     border: none;
     padding: 10px 20px;
 }
+
 .footer-48201 .social li {
     display: inline-block;
 }
+
 .footer-48201 .social li a {
     color: gray;
     padding: 7px;
 }
+
 .footer-48201 .social li a:hover {
     color: #fff;
 }
+
 .footer-48201 .copyright {
     border-top: 1px solid #ffffff;
+}
+
+#judul {
+    /* font-size: 32px; */
+    color: #111;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    position: relative;
+    padding-bottom: 5px;
+}
+
+#judul::before {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 120px;
+    height: 1px;
+    background: #ddd;
+    bottom: 1px;
+    left: calc(50% - 60px);
+}
+
+#judul::after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 40px;
+    height: 3px;
+    background: #07187a;
+    bottom: 0;
+    left: calc(50% - 20px);
+}
+
+#img-team {
+    border-radius: 50%;
+    border: 3px solid #07187a;
 }

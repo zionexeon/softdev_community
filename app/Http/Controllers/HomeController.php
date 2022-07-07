@@ -31,4 +31,10 @@ class HomeController extends Controller
             "title" => "CONTACT"
         ]);
     }
+    public function team()
+    {
+        return view('home.team', [
+            "title" => "Team"
+        ]);
+    }
 }
