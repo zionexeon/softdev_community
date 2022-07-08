@@ -27,7 +27,7 @@
                 </div>
                 <div class="col" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="150">
                     <div class="h-100 border-0">
-                        <img src="/img/" class="card-img-top" id="img-team" alt="...">
+                        <img src="/img/dzaky.jpg" class="card-img-top" id="img-team" alt="...">
                         <div class="card-body mt-3 text-center">
                             <h5 class="card-title">Dzaky Fadli Firmansyah</h5>
                             <p>Flutter Beginner</p>
