@@ -24,10 +24,10 @@
                 </div>
                 <div class="col-md">
                     <ul class="list-unstyled nav-links">
-                        <li><a href="#">Beranda</a></li>
-                        <li><a href="#">Tentang</a></li>
-                        <li><a href="#">Hasil Kerja</a></li>
-                        <li><a href="#">Kontak</a></li>
+                        <li><a href="/">Beranda</a></li>
+                        <li><a href="/about">Tentang</a></li>
+                        <li><a href="/portfolio">Hasil Kerja</a></li>
+                        <li><a href="/contact">Kontak</a></li>
                     </ul>
                 </div>
                 <div class="col-md">
@@ -47,7 +47,7 @@
                     </ul>
                 </div>
                 <div class="col-md text-md-center">
-                    <p class=""><a href="#" class="btn btn-tertiary">Contact Us</a></p>
+                    <p class=""><a href="/contact" class="btn btn-tertiary">Contact Us</a></p>
                 </div>
             </div>
 
