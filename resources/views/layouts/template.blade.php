@@ -19,7 +19,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 pr-md-5">
-                    <a href="/" class="footer-site-logo d-block mb-4 text-decoration-none">FCS PROJECT</a>
+                    <a href="/" class="footer-site-logo d-block mb-4 text-decoration-none">Soft Dev Community</a>
                     <p>Teknologi yang lebih baik, masa depan yang lebih baik</p>
                 </div>
                 <div class="col-md">

@@ -10,7 +10,7 @@ class HomeController extends Controller
     {
         return view('Home/home', [
             "title" => "HOME",
-            "slug" => "Focus / FCS Project adalah sebuah komunitas yang berfokus dalam bidang IT seperti dalam pembuatan aplikasi web, dekstop, prototype IOT, dan lain sebagainnya."
+            "slug" => "Soft Dev Community adalah sebuah komunitas yang berfokus dalam bidang IT seperti dalam pembuatan aplikasi web, dekstop, prototype IOT, dan lain sebagainnya."
         ]);
     }
     public function about()
