@@ -42,7 +42,7 @@
         <div class="row align-items-center">
             <div class="mb-3">
                 <div class="row g-0">
-                    <div class="col-md-8">
+                    <div class="col-md-8 mb-4">
                         <div class="card-body">
                             <h2 class="card-title fw-bold pb-3 pt-4">Apa itu Soft Dev Commuity ??</h2>
                             <p class="card-text">{{ $slug }}</p>
@@ -50,20 +50,20 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <img src="/img/SoftDev Logo 2.png" class="img-fluid rounded-start ms-5" alt="SOFTDEV COMMUNITY">
+                        <img src="/img/SoftDev Logo 2.png" class="img-fluid rounded-start" alt="SOFTDEV COMMUNITY">
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<div class="container mt-4">
+<div class="container mt-3">
     <article class="text-center justify-content-center align-items-center">
         <h1 class="text-capitalize fw-bold">Pelayanan SoftDev Community</h1>
         <p class="fs-6">Berikut merupakan beberapa layanan kami, untuk kamu yang tersayang.</p>
     </article>
     <div class="row p-4">
-        <div class="col-md-4">
+        <div class="col-md-4 mb-3">
             <div class="card kartu-pelayanan">
                 <div class="card-body text-center">
                     <i class="fa-solid fa-sack-dollar fa-5x p-3"></i>
@@ -74,7 +74,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-3">
             <div class="card kartu-pelayanan">
                 <div class="card-body text-center">
                     <i class="fa-solid fa-handshake-simple fa-5x p-3"></i>
@@ -85,7 +85,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-3">
             <div class="card kartu-pelayanan">
                 <div class="card-body text-center">
                     <i class="fa-solid fa-laptop-code fa-5x p-3"></i>
