@@ -6,7 +6,7 @@
             <div id="carousel-gambar">
                 <img src="/img/programmer1.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption caption1">
-                    <p class="text-uppercase">Selamat datang di focus project</p>
+                    <p class="text-uppercase">Selamat datang di softdev community</p>
                     <p class="text-capitalize">Teknologi yang lebih baik, masa depan yang lebih baik</p>
                 </div>
             </div>
@@ -50,7 +50,7 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <img src="/img/Community.png" class="img-fluid rounded-start" alt="FCS Project">
+                        <img src="/img/SoftDev Logo 2.png" class="img-fluid rounded-start ms-5" alt="SOFTDEV COMMUNITY">
                     </div>
                 </div>
             </div>
