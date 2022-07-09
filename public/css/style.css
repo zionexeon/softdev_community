@@ -133,3 +133,18 @@
     border-radius: 50%;
     border: 3px solid #07187a;
 }
+
+.btn.btn-more {
+    color: white;
+    background-color: #4f76cf;
+    border-radius: 30px;
+    border: none;
+    padding: 10px 20px;
+}
+.btn.btn-more:hover {
+    background-color: #dc3545;
+    color: #fff;
+    border-radius: 30px;
+    border: none;
+    padding: 10px 20px;
+}

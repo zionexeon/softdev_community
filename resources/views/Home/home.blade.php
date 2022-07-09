@@ -46,7 +46,7 @@
                         <div class="card-body">
                             <h2 class="card-title fw-bold pb-3 pt-4">Apa itu Soft Dev Commuity ??</h2>
                             <p class="card-text">{{ $slug }}</p>
-                            <a href="/about" class="btn btn-dark text-decoration-none">Lebih Lanjut..</a>
+                            <a href="/about" class="btn btn-more text-decoration-none">Lebih Lanjut..</a>
                         </div>
                     </div>
                     <div class="col-md-4">
