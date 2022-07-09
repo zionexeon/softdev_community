@@ -148,3 +148,15 @@
     border: none;
     padding: 10px 20px;
 }
+
+.kartu-pelayanan {
+    background-color: #4f76cf;
+    height: 100%;
+    color: white;
+}
+
+.kartu-pelayanan:hover {
+    background-color: #dc3545;
+    color: white;
+    height: 100%;
+}

@@ -32,4 +32,44 @@
         </div>
     </div>
 </div>
+<div class="container">
+    <article class="text-center justify-content-center align-items-center pt-3">
+        <h1 class="text-capitalize fw-bold">Pelayanan SoftDev Community</h1>
+        <p class="fs-6">Berikut merupakan beberapa layanan kami, untuk kamu yang tersayang.</p>
+    </article>
+    <div class="row p-4">
+        <div class="col-md-4">
+            <div class="card kartu-pelayanan">
+                <div class="card-body text-center">
+                    <i class="fa-solid fa-sack-dollar fa-5x p-3"></i>
+                    <h4 class="fw-bold">Harga Teman</h4>
+                    <p class="card-text fs-5">Kami memberikan pelayanan yang terjamin dan lebih terjagkau dari jasa
+                        pembuat
+                        website lainnya.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card kartu-pelayanan">
+                <div class="card-body text-center">
+                    <i class="fa-solid fa-handshake-simple fa-5x p-3"></i>
+                    <h4 class="fw-bold">Terpercaya</h4>
+                    <p class="card-text fs-5">Kami memastikan bahwa kami dapat dpercaya, dan akan menyelesaikan website
+                        sesuai dengan keinginan kamu.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card kartu-pelayanan">
+                <div class="card-body text-center">
+                    <i class="fa-solid fa-laptop-code fa-5x p-3"></i>
+                    <h4 class="fw-bold">Tanggung Jawab</h4>
+                    <p class="card-text fs-5">Kami memastikan bahwa tidak ada kelalean dalam menyelesaikan aplikasi
+                        sesuai dengan keinginan kamu.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 @endsection
