@@ -60,13 +60,13 @@
         </div>
     </div>
 </div>
-<div class="container pb-4">
+<div class="container">
     <article class="pb-3 text-center" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false">
         <h1 class="text-capitalize fw-bold">Pesan Website</h1>
         <p class="fs-6">Pilih beberapa layanan kami berikut ini</p>
     </article>
     <div class="row row-cols-1 row-cols-md-3">
-        <div class="col-md-4 mb-3" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100"
+        <div class="col-md-4 mb-3 pb-5" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100"
             data-aos-once="false">
             <div class="card kartu-pesanan">
                 <div class="card-body text-center">
@@ -76,9 +76,9 @@
                         kami akan memberikan demo dan file .zip</p>
                 </div>
             </div>
-            <center><a href="#" class="btn btn-more text-decoration-none mt-3">Pesan Sekarang</a></center>
+            <center><a href="#" class="btn btn-pesanan text-decoration-none mt-3">Pesan Sekarang</a></center>
         </div>
-        <div class="col-md-4 mb-3" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="150"
+        <div class="col-md-4 mb-3 pb-5" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="150"
             data-aos-once="false">
             <div class="card kartu-pesanan">
                 <div class="card-body text-center">
@@ -88,9 +88,9 @@
                         .zip</p>
                 </div>
             </div>
-            <center><a href="#" class="btn btn-more text-decoration-none mt-3">Pesan Sekarang</a></center>
+            <center><a href="#" class="btn btn-pesanan text-decoration-none mt-3">Pesan Sekarang</a></center>
         </div>
-        <div class="col-md-4 mb-3" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200"
+        <div class="col-md-4 mb-3 pb-5" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200"
             data-aos-once="false">
             <div class="card kartu-pesanan">
                 <div class="card-body text-center">
@@ -100,7 +100,7 @@
                         bisnis kamu dan website impianmu maka VOILLA! kami akan membuatnya untuk kamu.</p>
                 </div>
             </div>
-            <center><a href="#" class="btn btn-more text-decoration-none mt-3">Pesan Sekarang</a></center>
+            <center><a href="#" class="btn btn-pesanan text-decoration-none mt-3">Pesan Sekarang</a></center>
         </div>
     </div>
 </div>

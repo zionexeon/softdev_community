@@ -145,6 +145,20 @@
     border: none;
     padding: 10px 20px;
 }
+.btn.btn-pesanan {
+    color: white;
+    background-color: #4f76cf;
+    border-radius: 30px;
+    border: none;
+    padding: 10px 20px;
+}
+.btn.btn-pesanan:hover {
+    background-color: #dc3545;
+    color: #fff;
+    border-radius: 30px;
+    border: none;
+    padding: 10px 20px;
+}
 
 .kartu-pelayanan {
     background-color: #4f76cf;
