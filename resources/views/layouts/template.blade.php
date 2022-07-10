@@ -70,9 +70,7 @@
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js"></script>
     <script>
-        AOS.init({
-            once:true
-        });
+        AOS.init();
     </script>
     <script src="/js/animation.js"></script>
 </body>
