@@ -23,7 +23,7 @@
     </article>
     <div class="row">
         <div class="col-md">
-            <div class="card mt-3 mb-3 border-0" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="150"
+            <div class="card mt-3 mb-5 border-0" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="150"
                 data-aos-once="true">
                 <div class="row g-0">
                     <div class="col-md-4">
@@ -42,13 +42,13 @@
     </div>
 </div>
 <div class="container">
-    <article class="text-center justify-content-center align-items-center pt-3">
+    <article class="text-center justify-content-center align-items-center mb-5">
         <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="100" data-aos-once="false">
             <h1 class="text-capitalize fw-bold">Pelayanan SoftDev Community</h1>
             <p class="fs-6">Berikut merupakan beberapa layanan kami, untuk kamu yang tersayang.</p>
         </div>
     </article>
-    <div class="row p-4">
+    <div class="row mb-4">
         <div class="col-md-4 mb-3">
             <div class="card kartu-pelayanan" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150"
                 data-aos-once="false">

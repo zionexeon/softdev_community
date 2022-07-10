@@ -37,9 +37,9 @@
         <span class="visually-hidden">Next</span>
     </button>
 </div>
-<div class="container pt-5">
+<div class="container">
     <div class="row">
-        <div class="card mb-3 border-0">
+        <div class="card mb-3 pt-5 border-0">
             <div class="row g-0">
                 <div class="col-md-8">
                     <div class="card-body" data-aos="fade-right" data-aos-duration="1000" data-aos-once="false">
@@ -62,7 +62,7 @@
         <h1 class="text-capitalize fw-bold">Pelayanan SoftDev Community</h1>
         <p class="fs-6">Berikut merupakan beberapa layanan kami, untuk kamu yang tersayang.</p>
     </article>
-    <div class="row p-4">
+    <div class="row pt-3 pb-3">
         <div class="col-md-4 mb-3">
             <div class="card kartu-pelayanan" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100"
                 data-aos-once="false">
