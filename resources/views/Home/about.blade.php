@@ -48,8 +48,8 @@
             <p class="fs-6">Berikut merupakan beberapa layanan kami, untuk kamu yang tersayang.</p>
         </div>
     </article>
-    <div class="row mb-4">
-        <div class="col-md-4 mb-3">
+    <div class="row mb-4 row-cols-1 row-cols-md-3 g-4">
+        <div class="col mb-3">
             <div class="card kartu-pelayanan" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150"
                 data-aos-once="false">
                 <div class="card-body text-center">
@@ -61,7 +61,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4 mb-3">
+        <div class="col mb-3">
             <div class="card kartu-pelayanan" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="200"
                 data-aos-once="false">
                 <div class="card-body text-center">
@@ -73,7 +73,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4 mb-3">
+        <div class="col mb-3">
             <div class="card kartu-pelayanan" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="250"
                 data-aos-once="false">
                 <div class="card-body text-center">

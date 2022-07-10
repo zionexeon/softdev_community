@@ -28,11 +28,12 @@
     font-weight: bold;
     font-size: 30px;
     top: 53%;
+    display: block;
     transform: translateY(-50%);
 }
 
 #carousel-gambar img {
-    max-height: 607px;
+    max-height: 600px;
 }
 
 .footer-48201 {
@@ -150,9 +151,31 @@
     height: 100%;
     color: white;
 }
+.kartu-pesanan {
+    height: 90%;
+}
 
 .kartu-pelayanan:hover {
     background-color: #dc3545;
     color: white;
     height: 100%;
+}
+
+.kartu-pesanan {
+    transition: transform 0.2s ease;
+    background-color: #4f76cf;
+    box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 1em;
+    color: white;
+}
+.kartu-pesanan:hover {
+    transform: scale(1.1);
+    background-color: #dc3545;
+    color: white;
+}
+
+.article-pelayanan {
+    margin-top: 4rem;
 }
