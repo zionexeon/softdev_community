@@ -37,34 +37,32 @@
         <span class="visually-hidden">Next</span>
     </button>
 </div>
-<div class="background-header">
-    <div class="container pt-5">
-        <div class="row align-items-center">
-            <div class="mb-3">
-                <div class="row g-0">
-                    <div class="col-md-8 mb-4">
-                        <div class="card-body">
-                            <h2 class="card-title fw-bold pb-3 pt-4">Apa itu Soft Dev Commuity ??</h2>
-                            <p class="card-text">{{ $slug }}</p>
-                            <a href="/about" class="btn btn-more text-decoration-none">Lebih Lanjut..</a>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <img src="/img/SoftDev Logo 2.png" class="img-fluid rounded-start" alt="SOFTDEV COMMUNITY">
-                    </div>
+<div class="container pt-5">
+    <div class="row align-items-center mb-5">
+        <div class="row g-0">
+            <div class="col-md-8 mb-4">
+                <div class="card-body" data-aos="fade-right" data-aos-duration="1000">
+                    <h2 class="card-title fw-bold pb-3 pt-4">Apa itu Soft Dev Commuity ??</h2>
+                    <p class="card-text">{{ $slug }}</p>
+                    <a href="/about" class="btn btn-more text-decoration-none">Lebih Lanjut..</a>
                 </div>
+            </div>
+            <div class="col-md-4">
+                <img src="/img/SoftDev Logo 2.png" class="img-fluid rounded-start" alt="SOFTDEV COMMUNITY"
+                    data-aos="fade-left" data-aos-duration="1000" data-aos-delay="250">
             </div>
         </div>
     </div>
 </div>
 <div class="container mt-3">
-    <article class="text-center justify-content-center align-items-center">
+    <article class="text-center justify-content-center align-items-center" data-aos="fade-down"
+        data-aos-duration="1000">
         <h1 class="text-capitalize fw-bold">Pelayanan SoftDev Community</h1>
         <p class="fs-6">Berikut merupakan beberapa layanan kami, untuk kamu yang tersayang.</p>
     </article>
     <div class="row p-4">
         <div class="col-md-4 mb-3">
-            <div class="card kartu-pelayanan">
+            <div class="card kartu-pelayanan" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100">
                 <div class="card-body text-center">
                     <i class="fa-solid fa-sack-dollar fa-5x p-3"></i>
                     <h4 class="fw-bold">Harga Teman</h4>
@@ -75,7 +73,7 @@
             </div>
         </div>
         <div class="col-md-4 mb-3">
-            <div class="card kartu-pelayanan">
+            <div class="card kartu-pelayanan" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="150">
                 <div class="card-body text-center">
                     <i class="fa-solid fa-handshake-simple fa-5x p-3"></i>
                     <h4 class="fw-bold">Terpercaya</h4>
@@ -86,7 +84,7 @@
             </div>
         </div>
         <div class="col-md-4 mb-3">
-            <div class="card kartu-pelayanan">
+            <div class="card kartu-pelayanan" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
                 <div class="card-body text-center">
                     <i class="fa-solid fa-laptop-code fa-5x p-3"></i>
                     <h4 class="fw-bold">Tanggung Jawab</h4>
