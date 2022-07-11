@@ -62,7 +62,7 @@
 </div>
 <div class="container">
     <article class="pb-3 text-center" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false">
-        <h1 class="text-capitalize fw-bold">Pesan Website</h1>
+        <h1 class="text-capitalize fw-bold">Pesan Aplikasi</h1>
         <p class="fs-6">Pilih beberapa layanan kami berikut ini</p>
     </article>
     <div class="row row-cols-1 row-cols-md-3">
@@ -72,7 +72,7 @@
                 <div class="card-body text-center">
                     <i class="fa-solid fa-book fa-5x pb-3 pt-3"></i>
                     <h4 class="fw-bold">Tugas Sekolah</h4>
-                    <p class="card-text fs-5">Kami akan mengerjakan website untuk tugas sekolah kamu, jangan khawatir
+                    <p class="card-text fs-5">Kami akan mengerjakan aplikasi untuk tugas sekolah kamu, jangan khawatir
                         kami akan memberikan demo dan file .zip</p>
                 </div>
             </div>
@@ -85,7 +85,7 @@
                 <div class="card-body text-center">
                     <i class="fa-solid fa-book-open fa-5x pt-3 pb-3"></i>
                     <h4 class="fw-bold">Tugas Kuliah</h4>
-                    <p class="card-text fs-5">Kami juga melayani joki tugas website kuliah loh! tersedia demo dan file
+                    <p class="card-text fs-5">Kami juga melayani joki tugas aplikasi kuliah loh! tersedia demo dan file
                         .zip</p>
                 </div>
             </div>
@@ -98,8 +98,8 @@
                 <div class="card-body text-center">
                     <i class="fa-solid fa-briefcase fa-5x pt-3 pb-3"></i>
                     <h4 class="fw-bold">Website Bisnis</h4>
-                    <p class="card-text fs-5">Kami akan membuatkan website untuk bisnis kamu. Cukup jelaskan mengenai
-                        bisnis kamu dan website impianmu maka VOILLA! kami akan membuatnya untuk kamu.</p>
+                    <p class="card-text fs-5">Kami akan membuatkan aplikasi untuk bisnis kamu. Cukup jelaskan mengenai
+                        bisnis kamu dan aplikasi impianmu maka VOILLA! kami akan membuatnya untuk kamu.</p>
                 </div>
             </div>
             <center><a href="https://wa.me/6281548806114?text=Saya%20mau%20pesan%20website%20bisnis"
@@ -121,8 +121,7 @@
                     <i class="fa-solid fa-sack-dollar fa-5x p-3"></i>
                     <h4 class="fw-bold">Harga Terjangkau</h4>
                     <p class="card-text fs-5">Kami memberikan pelayanan yang terjamin dan lebih terjangkau dari jasa
-                        pembuat
-                        website lainnya.</p>
+                        pembuat aplikasi lainnya.</p>
                 </div>
             </div>
         </div>
@@ -132,7 +131,8 @@
                 <div class="card-body text-center">
                     <i class="fa-solid fa-handshake-simple fa-5x p-3"></i>
                     <h4 class="fw-bold">Terpercaya</h4>
-                    <p class="card-text fs-5">Kami memastikan bahwa kami dapat dpercaya, dan akan menyelesaikan website
+                    <p class="card-text fs-5">Kami memastikan bahwa kami dapat dipercaya, dan akan menyelesaikan
+                        aplikasi
                         sesuai dengan keinginan kamu.
                     </p>
                 </div>
@@ -169,9 +169,10 @@
         <article>
             <p class="text-center fs-5 mt-3" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false"
                 data-aos-delay="250">
-                Kami akan menyelesaikan website kamu sesuai ekspekstasi dan deadline, karena kamu penting.
+                Kami akan menyelesaikan aplikasi kamu sesuai ekspekstasi dan deadline, karena kamu penting.
                 <b>Softdevcommunity</b>
-                merupakan tempat tercocok untuk kamu pilih sebagai jasa Joki Website, dengan harga yang lebih miring dan
+                merupakan tempat tercocok untuk kamu pilih sebagai jasa pembuatan aplikasi, dengan harga yang lebih
+                miring dan
                 cocok untuk kantong pelajar/mahasiswa serta bisnis yang baru dimulai. Kami berusaha menyediakan yang
                 terbaik untuk kamu, hanya di softdevcommunity.com
             </p>
@@ -189,7 +190,7 @@
     </article>
     <div class="row">
         <center>
-            <img src="/img/Mekar Laser Logo 2.png" alt="" style="width: 600px;" class="mb-5 mt-4" data-aos="fade-up"
+            <img src="/img/Mekar Laser Logo 2.png" alt="" style="width: 550px;" class="mb-5 mt-4" data-aos="fade-up"
                 data-aos-duration="1000" data-aos-once="false" data-aos-delay="200">
         </center>
     </div>

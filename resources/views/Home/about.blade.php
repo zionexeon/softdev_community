@@ -83,8 +83,7 @@
                     <i class="fa-solid fa-sack-dollar fa-5x p-3"></i>
                     <h4 class="fw-bold">Harga Terjangkau</h4>
                     <p class="card-text fs-5">Kami memberikan pelayanan yang terjamin dan lebih terjangkau dari jasa
-                        pembuat
-                        website lainnya.</p>
+                        pembuat aplikasi lainnya.</p>
                 </div>
             </div>
         </div>
@@ -94,7 +93,8 @@
                 <div class="card-body text-center">
                     <i class="fa-solid fa-handshake-simple fa-5x p-3"></i>
                     <h4 class="fw-bold">Terpercaya</h4>
-                    <p class="card-text fs-5">Kami memastikan bahwa kami dapat dpercaya, dan akan menyelesaikan website
+                    <p class="card-text fs-5">Kami memastikan bahwa kami dapat dipercaya, dan akan menyelesaikan
+                        aplikasi
                         sesuai dengan keinginan kamu.
                     </p>
                 </div>
@@ -118,5 +118,13 @@
                 class="btn btn-more text-decoration-none pt-3 pb-3">Mau Tanya - Tanya Dulu</a>
         </div>
     </center>
+</div>
+<div class="container">
+    <article class="pt-2 pb-3" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="350">
+        <h2><b>Aktivitas Pembuatan Software</b></h2>
+        <p class="fs-6">Kelompok ini mencakup kegiatan usaha penerbitan perangkat lunak yang siap pakai (bukan atas
+            dasar pesanan), seperti sistem operasi, aplikasi bisnis dan lainnya dan video game untuk semua platform
+            sistem operasi (58200).</p>
+    </article>
 </div>
 @endsection
