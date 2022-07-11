@@ -6,7 +6,8 @@
 <div class="container">
     <article class="pt-2">
         <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100">
-            <p><b>Soft Dev Community</b> adalah sebuah komunitas yang berfokus dalam bidang IT seperti dalam pembuatan
+            <p class="fs-6"><b>Soft Dev Community</b> adalah sebuah komunitas yang berfokus dalam bidang IT seperti
+                dalam pembuatan
                 aplikasi web,
                 dekstop, prototype IOT, dan lain sebagainnya. Komunitas ini terdiri dari beberapa orang
                 didalamnya
@@ -21,25 +22,11 @@
                 dengan teknologi masa kini.</p>
         </div>
     </article>
-    <div class="row">
-        <div class="col-md">
-            <div class="card mt-3 mb-5 border-0" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="150"
-                data-aos-once="true">
-                <div class="row g-0">
-                    <div class="col-md-4">
-                        <img src="/img/team.jpeg" class="img-fluid" alt="Team">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="card-body">
-                            <h3 class="card-title fw-bold">Perhatikan gambar berikut ini</h3>
-                            <p class="card-text">Ini adalah salah satu contoh kegiatan dari anggota SoftDev Community
-                                yang sedang mengerjakan sebuah project dari client kita.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <article class="pt-2 pb-3">
+        <h2><b>Dukungan Tenaga Ahli</b></h2>
+        <p class="fs-6">Komunitas ini didukung dengan tenaga ahli yang berpengalaman dan berkualitas yang menjadikan
+            kami unggul dalam segi harga, kualitas dan kuantitas produksi.</p>
+    </article>
 </div>
 <div class="container">
     <article class="text-center justify-content-center align-items-center mb-5">

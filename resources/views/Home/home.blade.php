@@ -150,7 +150,7 @@
             </div>
         </div>
     </div>
-    <center>
+    <center class="mt-3">
         <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="250" data-aos-once="false">
             <a href="https://wa.me/6281548806114?text=Saya%20mau%20tanya%20tanya%20terlebih%20dahulu"
                 class="btn btn-more text-decoration-none pt-3 pb-3">Mau Tanya - Tanya Dulu</a>
@@ -180,6 +180,17 @@
             <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300" data-aos-once="false" class="mb-3">
                 <a href="" class="btn btn-more text-decoration-none pt-3 pb-3">Lebih Lanjut..</a>
             </div>
+        </center>
+    </div>
+</div>
+<div class="container">
+    <article class="pb-3 mt-5 text-center" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false">
+        <h1 class="text-capitalize fw-bold">Mitra Kami</h1>
+    </article>
+    <div class="row">
+        <center>
+            <img src="/img/Mekar Laser Logo 2.png" alt="" style="width: 600px;" class="mb-5 mt-4" data-aos="fade-up"
+                data-aos-duration="1000" data-aos-once="false" data-aos-delay="200">
         </center>
     </div>
 </div>
