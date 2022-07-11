@@ -24,7 +24,43 @@
     </ul>
     <div class="tab-content" id="pills-tabContent">
         <div class="tab-pane fade show active" id="pills-all" role="tabpanel" aria-labelledby="pills-all-tab"
-            tabindex="0">...</div>
+            tabindex="0">
+            <div class="container">
+                <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4">
+                    <div class="col">
+                        <div class="card h-100 text-white kartu-hasil">
+                            <img src="/img/akrilik.png" class="card-img background-gambar" alt="Akrilik Laser Cutting">
+                            <div class="card-img-overlay">
+                                <h5 class="card-title">Akrilik Laser Cutting</h5>
+                                <p class="card-text">Aplikasi Website</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural
+                                    lead-in
+                                    to additional content. This content is a little bit longer.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">This is a longer card with supporting text below as a natural
+                                    lead-in
+                                    to additional content.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="tab-pane fade" id="pills-dekstop" role="tabpanel" aria-labelledby="pills-dekstop-tab" tabindex="0">
             ...</div>
         <div class="tab-pane fade" id="pills-website" role="tabpanel" aria-labelledby="pills-website-tab" tabindex="0">
