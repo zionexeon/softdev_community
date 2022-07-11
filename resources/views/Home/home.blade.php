@@ -107,7 +107,7 @@
         </div>
     </div>
 </div>
-<div class="container pb-4">
+<div class="container">
     <article class="pb-3 text-center article-pelayanan" data-aos="fade-down" data-aos-duration="1000"
         data-aos-once="false">
         <h1 class="text-capitalize fw-bold">Pelayanan SoftDev Community</h1>
@@ -156,5 +156,31 @@
                 class="btn btn-more text-decoration-none pt-3 pb-3">Mau Tanya - Tanya Dulu</a>
         </div>
     </center>
+</div>
+<div class="container">
+    <article class="pb-3 mt-5 text-center" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false">
+        <h1 class="text-capitalize fw-bold">Percaya kami</h1>
+    </article>
+    <div class="row">
+        <center>
+            <img src="/img/tech.gif" alt="" style="width: 600px;" class="mb-3" data-aos="fade-up"
+                data-aos-duration="1000" data-aos-once="false" data-aos-delay="200">
+        </center>
+        <article>
+            <p class="text-center fs-5 mt-3" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false"
+                data-aos-delay="250">
+                Kami akan menyelesaikan website kamu sesuai ekspekstasi dan deadline, karena kamu penting.
+                <b>Softdevcommunity</b>
+                merupakan tempat tercocok untuk kamu pilih sebagai jasa Joki Website, dengan harga yang lebih miring dan
+                cocok untuk kantong pelajar/mahasiswa serta bisns yang baru dimulai. Kami berusaha menyediakan yang
+                terbaik untuk kamu, hanya di softdevcommunity.com
+            </p>
+        </article>
+        <center>
+            <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300" data-aos-once="false" class="mb-3">
+                <a href="" class="btn btn-more text-decoration-none pt-3 pb-3">Lebih Lanjut..</a>
+            </div>
+        </center>
+    </div>
 </div>
 @endsection

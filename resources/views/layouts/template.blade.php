@@ -57,7 +57,8 @@
             <div class="row ">
                 <div class="col-12 text-center">
                     <div class="copyright mt-5 pt-5">
-                        <p class="fs-5"><small>&copy; 2022 All Rights Reserved.</small></p>
+                        <p class="fs-5"><small>&copy; 2022 All Rights Reserved <a href="#"
+                                    class="text-decoration-none link-website">Softdevcommunity.com</a></small></p>
                     </div>
                 </div>
             </div>
