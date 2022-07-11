@@ -119,8 +119,8 @@
                 data-aos-once="false">
                 <div class="card-body text-center">
                     <i class="fa-solid fa-sack-dollar fa-5x p-3"></i>
-                    <h4 class="fw-bold">Harga Teman</h4>
-                    <p class="card-text fs-5">Kami memberikan pelayanan yang terjamin dan lebih terjagkau dari jasa
+                    <h4 class="fw-bold">Harga Terjangkau</h4>
+                    <p class="card-text fs-5">Kami memberikan pelayanan yang terjamin dan lebih terjangkau dari jasa
                         pembuat
                         website lainnya.</p>
                 </div>
@@ -172,7 +172,7 @@
                 Kami akan menyelesaikan website kamu sesuai ekspekstasi dan deadline, karena kamu penting.
                 <b>Softdevcommunity</b>
                 merupakan tempat tercocok untuk kamu pilih sebagai jasa Joki Website, dengan harga yang lebih miring dan
-                cocok untuk kantong pelajar/mahasiswa serta bisns yang baru dimulai. Kami berusaha menyediakan yang
+                cocok untuk kantong pelajar/mahasiswa serta bisnis yang baru dimulai. Kami berusaha menyediakan yang
                 terbaik untuk kamu, hanya di softdevcommunity.com
             </p>
         </article>
