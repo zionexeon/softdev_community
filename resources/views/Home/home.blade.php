@@ -76,7 +76,8 @@
                         kami akan memberikan demo dan file .zip</p>
                 </div>
             </div>
-            <center><a href="#" class="btn btn-pesanan text-decoration-none mt-3">Pesan Sekarang</a></center>
+            <center><a href="https://wa.me/6281548806114?text=Saya%20mau%20pesan%20tugas%20sekolah"
+                    class="btn btn-pesanan text-decoration-none mt-3">Pesan Sekarang</a></center>
         </div>
         <div class="col-md-4 mb-3 pb-5" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="150"
             data-aos-once="false">
@@ -88,7 +89,8 @@
                         .zip</p>
                 </div>
             </div>
-            <center><a href="#" class="btn btn-pesanan text-decoration-none mt-3">Pesan Sekarang</a></center>
+            <center><a href="https://wa.me/6281548806114?text=Saya%20mau%20pesan%20tugas%20kuliah"
+                    class="btn btn-pesanan text-decoration-none mt-3">Pesan Sekarang</a></center>
         </div>
         <div class="col-md-4 mb-3 pb-5" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200"
             data-aos-once="false">
@@ -100,7 +102,8 @@
                         bisnis kamu dan website impianmu maka VOILLA! kami akan membuatnya untuk kamu.</p>
                 </div>
             </div>
-            <center><a href="#" class="btn btn-pesanan text-decoration-none mt-3">Pesan Sekarang</a></center>
+            <center><a href="https://wa.me/6281548806114?text=Saya%20mau%20pesan%20website%20bisnis"
+                    class="btn btn-pesanan text-decoration-none mt-3">Pesan Sekarang</a></center>
         </div>
     </div>
 </div>
@@ -149,7 +152,8 @@
     </div>
     <center>
         <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="250" data-aos-once="false">
-            <a href="#" class="btn btn-more text-decoration-none pt-3 pb-3">Mau Tanya - Tanya Dulu</a>
+            <a href="https://wa.me/6281548806114?text=Saya%20mau%20tanya%20tanya%20terlebih%20dahulu"
+                class="btn btn-more text-decoration-none pt-3 pb-3">Mau Tanya - Tanya Dulu</a>
         </div>
     </center>
 </div>

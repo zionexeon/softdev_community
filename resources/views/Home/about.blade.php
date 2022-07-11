@@ -85,5 +85,11 @@
             </div>
         </div>
     </div>
+    <center class="pb-4">
+        <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300" data-aos-once="false">
+            <a href="https://wa.me/6281548806114?text=Saya%20mau%20tanya%20tanya%20terlebih%20dahulu"
+                class="btn btn-more text-decoration-none pt-3 pb-3">Mau Tanya - Tanya Dulu</a>
+        </div>
+    </center>
 </div>
 @endsection
