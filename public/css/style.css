@@ -7,7 +7,7 @@
 }
 
 .navbar-nav li a:hover {
-    color: #dc3545;
+    color: #ff0019;
 }
 
 .drk:after {
@@ -58,7 +58,7 @@
 }
 
 .footer-48201 .nav-links li a:hover {
-    color: #dc3545;
+    color: #ff0019;
 }
 
 .footer-48201 .btn.btn-tertiary {
@@ -70,7 +70,7 @@
 }
 
 .footer-48201 .btn.btn-tertiary:hover {
-    background-color: #dc3545;
+    background-color: #ff0019;
     color: #fff;
     border-radius: 30px;
     border: none;
@@ -139,7 +139,7 @@
     padding: 10px 20px;
 }
 .btn.btn-more:hover {
-    background-color: #dc3545;
+    background-color: #ff0019;
     color: #fff;
     border-radius: 30px;
     border: none;
@@ -153,7 +153,7 @@
     padding: 10px 20px;
 }
 .btn.btn-pesanan:hover {
-    background-color: #dc3545;
+    background-color: #ff0019;
     color: #fff;
     border-radius: 30px;
     border: none;
@@ -170,7 +170,7 @@
 }
 
 .kartu-pelayanan:hover {
-    background-color: #dc3545;
+    background-color: #ff0019;
     color: white;
     height: 100%;
 }
@@ -186,7 +186,7 @@
 }
 .kartu-pesanan:hover {
     transform: scale(1.1);
-    background-color: #dc3545;
+    background-color: #ff0019;
     color: white;
 }
 .visi-misi {
@@ -200,7 +200,7 @@
 }
 .visi-misi:hover {
     transform: scale(1.1);
-    background-color: #dc3545;
+    background-color: #ff0019;
     color: white;
 }
 
@@ -212,46 +212,71 @@
     color: #ffff;
 }
 .link-website:hover {
-    color: #dc3545;
+    color: #ff0019;
 }
 
 .nav-pills .nav-item button.active {
-    background-color: #dc3545;
+    background-color: #ff0019;
     color: white;
 }
 .nav-pills .nav-item button:hover {
     background-color: #4f76cf;
     color: white;
 }
+
+.kartu-hasil {
+    position: relative;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
 .card-img-overlay {
     position: absolute;
-    top: 0;
     bottom: 0;
     left: 0;
     right: 0;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    transition: 0.5s ease;
     background-color: #000000;
-}
-
-.card-img-overlay h5 {
-    margin-top: 6rem;
-}
-
-.background-gambar {
-    transition: transform 0.2s ease;
-}
-.background-gambar:hover {
-    transform: scale(1.1);
-}
-
-.kartu-hasil {
-    transition: transform 0.2s ease;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+    -webkit-transition: 0.3s ease;
+    transition: 0.3s ease;
 }
 
 .kartu-hasil:hover .card-img-overlay {
     opacity: 0.9;
-    transform: scale(1.1);
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+}
+
+.card-img-overlay h5 {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.card-img-overlay span {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
 }
