@@ -44,17 +44,16 @@
 <div class="container">
     <div class="row mb-4 mt-5">
         <div class="card border-0">
-            <div class="row g-0">
+            <div class="row g-0" data-aos="fade-right" data-aos-duration="1000" data-aos-once="false">
                 <div class="col-md-8">
-                    <div class="card-body pb-4" data-aos="fade-right" data-aos-duration="1000" data-aos-once="false">
+                    <div class="card-body pb-4">
                         <h1 class="card-title fw-bold pb-3">Apa itu SoftDev Community ??</h1>
                         <p class="card-text">{{ $slug }}</p>
                         <a href="/about" class="btn btn-more text-decoration-none">Lebih Lanjut..</a>
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <img src="/img/SoftDev Logo 2.png" class="img-fluid" alt="SoftDev Community" data-aos="fade-left"
-                        data-aos-duration="1000" data-aos-delay="100" data-aos-once="false">
+                    <img src="/img/SoftDev Logo 2.png" class="img-fluid" alt="SoftDev Community">
                 </div>
             </div>
         </div>
