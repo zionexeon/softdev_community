@@ -42,7 +42,7 @@
                 <div class="card h-100 visi-misi">
                     <div class="card-body">
                         <h3 class="card-title fw-bold text-center">Visi</h3>
-                        <p class="card-text">Menjadi komunitas dalam bidang teknologi yang terbaik dengan mengedepankan
+                        <p class="card-text">Menjadi komunitas dalam bidang teknologi informasi dengan mengedepankan
                             semangat kreatif dan inovatif</p>
                     </div>
                 </div>

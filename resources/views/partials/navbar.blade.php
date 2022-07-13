@@ -18,11 +18,13 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link {{ $title === 'PORTFOLIO' ? 'active text-danger fade-in' : '' }}"
-                        href="portfolio">Hasil Kerja</a>
+                        href="portfolio">Hasil
+                        Kerja</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link {{ $title === 'CONTACT' ? 'active text-danger fade-in' : '' }}"
-                        href="/contact">Kontak Kami</a>
+                        href="/contact">Kontak
+                        Kami</a>
                 </li>
             </ul>
         </div>

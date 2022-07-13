@@ -29,7 +29,7 @@
                 <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4">
                     <div class="col">
                         <a href="">
-                            <div class="card kartu-hasil text-white">
+                            <div class="card kartu-hasil text-white border-0">
                                 <img src="/img/akrilik.png" class="image" alt="Akrilik Laser Cutting">
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">Akrilik Laser Cutting</h5>
@@ -40,7 +40,7 @@
                     </div>
                     <div class="col">
                         <a href="">
-                            <div class="card kartu-hasil text-white">
+                            <div class="card kartu-hasil text-white border-0">
                                 <img src="/img/bimahelm.png" class="card-img" alt="Bima Helm">
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">Bima Helm</h5>
@@ -51,11 +51,11 @@
                     </div>
                     <div class="col">
                         <a href="">
-                            <div class="card kartu-hasil text-white">
-                                <img src="/img/bimahelm.png" class="card-img" alt="Bima Helm">
+                            <div class="card kartu-hasil text-white border-0">
+                                <img src="/img/iot.jpg" class="card-img" alt="IOT">
                                 <div class="card-img-overlay">
-                                    <h5 class="card-title">Bima Helm</h5>
-                                    <span class="card-text fs-6">Aplikasi Website</span>
+                                    <h5 class="card-title">IOT Arduino</h5>
+                                    <span class="card-text fs-6">IOT</span>
                                 </div>
                             </div>
                         </a>
@@ -70,7 +70,7 @@
                 <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4">
                     <div class="col">
                         <a href="">
-                            <div class="card kartu-hasil text-white">
+                            <div class="card kartu-hasil text-white border-0">
                                 <img src="/img/akrilik.png" class="image" alt="Akrilik Laser Cutting">
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">Akrilik Laser Cutting</h5>
@@ -81,7 +81,7 @@
                     </div>
                     <div class="col">
                         <a href="">
-                            <div class="card kartu-hasil text-white">
+                            <div class="card kartu-hasil text-white border-0">
                                 <img src="/img/bimahelm.png" class="card-img" alt="Bima Helm">
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">Bima Helm</h5>
@@ -94,7 +94,22 @@
             </div>
         </div>
         <div class="tab-pane fade" id="pills-iot" role="tabpanel" aria-labelledby="pills-iot-tab" tabindex="0">
-            ...</div>
+            <div class="container">
+                <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4">
+                    <div class="col">
+                        <a href="">
+                            <div class="card kartu-hasil text-white border-0">
+                                <img src="/img/iot.jpg" class="card-img" alt="IOT">
+                                <div class="card-img-overlay">
+                                    <h5 class="card-title">IOT Arduino</h5>
+                                    <span class="card-text fs-6">IOT</span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 @endsection
