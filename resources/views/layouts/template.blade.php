@@ -35,29 +35,29 @@
                 </div>
                 <div class="col-md">
                     <ul class="list-unstyled nav-links">
-                        <li><a href="#">Clients</a></li>
+                        <li><a href="#">Klien</a></li>
                         <li><a href="/team">Team</a></li>
-                        <li><a href="#">Career</a></li>
-                        <li><a href="#">Testimonials</a></li>
-                        <li><a href="#">Journal</a></li>
+                        <li><a href="#">Riwayat Kerja</a></li>
+                        <li><a href="#">Testimoni</a></li>
+                        <li><a href="#">Jurnal</a></li>
                     </ul>
                 </div>
                 <div class="col-md">
                     <ul class="list-unstyled nav-links">
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Terms &amp; Conditions</a></li>
-                        <li><a href="#">Partners</a></li>
+                        <li><a href="#">Kebijakan pribadi</a></li>
+                        <li><a href="#">Syarat &amp; Kententuan</a></li>
+                        <li><a href="#">Mitra</a></li>
                     </ul>
                 </div>
                 <div class="col-md text-md-center">
-                    <p class=""><a href="/contact" class="btn btn-tertiary">Contact Us</a></p>
+                    <p class=""><a href="/contact" class="btn btn-tertiary">Kontak Kami</a></p>
                 </div>
             </div>
 
             <div class="row ">
                 <div class="col-12 text-center">
                     <div class="copyright mt-5 pt-5">
-                        <p class="fs-5"><small>&copy; 2022 All Rights Reserved <a href="#"
+                        <p class="fs-5"><small>&copy; 2022 Seluruh Hak Cipta <a href="#"
                                     class="text-decoration-none link-website"><b>Softdevcommunity.com</b></a></small>
                         </p>
                     </div>

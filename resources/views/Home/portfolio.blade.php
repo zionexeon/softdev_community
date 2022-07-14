@@ -27,7 +27,8 @@
         <div class="tab-pane fade show active" id="pills-all" role="tabpanel" aria-labelledby="pills-all-tab"
             tabindex="0">
             <div class="container">
-                <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4">
+                <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4" data-aos="fade-down" data-aos-duration="1000"
+                    data-aos-delay="150" data-aos-once="false">
                     <div class="col">
                         <a href="/detail">
                             <div class="card kartu-hasil text-white border-0">
@@ -53,7 +54,7 @@
                     <div class="col">
                         <a href="">
                             <div class="card kartu-hasil text-white border-0">
-                                <img src="/img/iot.jpg" class="card-img" alt="IOT">
+                                <img src="/img/iot.png" class="card-img" alt="IOT">
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">IOT Arduino</h5>
                                     <span class="card-text fs-6">IOT</span>
@@ -68,7 +69,8 @@
             ...</div>
         <div class="tab-pane fade" id="pills-website" role="tabpanel" aria-labelledby="pills-website-tab" tabindex="0">
             <div class="container">
-                <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4">
+                <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4" data-aos="fade-down" data-aos-duration="1000"
+                    data-aos-delay="150" data-aos-once="false">
                     <div class="col">
                         <a href="">
                             <div class="card kartu-hasil text-white border-0">
@@ -96,11 +98,12 @@
         </div>
         <div class="tab-pane fade" id="pills-iot" role="tabpanel" aria-labelledby="pills-iot-tab" tabindex="0">
             <div class="container">
-                <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4">
+                <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4" data-aos="fade-down" data-aos-duration="1000"
+                    data-aos-delay="150" data-aos-once="false">
                     <div class="col">
                         <a href="">
                             <div class="card kartu-hasil text-white border-0">
-                                <img src="/img/iot.jpg" class="card-img" alt="IOT">
+                                <img src="/img/iot.png" class="card-img" alt="IOT">
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">IOT Arduino</h5>
                                     <span class="card-text fs-6">IOT</span>
