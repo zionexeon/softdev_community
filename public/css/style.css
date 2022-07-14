@@ -297,14 +297,14 @@
 
 .btn.btn-kembali {
     color: white;
-    background-color: red;
+    background-color: #4f76cf;
     border-radius: 30px;
     border: none;
     padding: 10px 20px;
 }
 .btn.btn-kembali:hover {
     color: white;
-    background-color: #d10015;
+    background-color: #ff0019;
     border-radius: 30px;
     border: none;
     padding: 10px 20px;
