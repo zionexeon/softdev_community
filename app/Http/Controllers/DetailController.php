@@ -10,7 +10,9 @@ class DetailController extends Controller
     {
         return view('Detail/detailhasil', [
             "title" => "HASIL RINCIAN",
-            "gambar" => "/img/akrilik.png"
+            "gambar" => "/img/akrilik.png",
+            "klien" => "CV. Mekar Laser Cutting Digital",
+            "apk" => "Aplikasi Website"
         ]);
     }
 }

@@ -294,3 +294,18 @@
     transform: translate(-50%, -50%);
     text-align: center;
 }
+
+.btn.btn-kembali {
+    color: white;
+    background-color: red;
+    border-radius: 30px;
+    border: none;
+    padding: 10px 20px;
+}
+.btn.btn-kembali:hover {
+    color: white;
+    background-color: #d10015;
+    border-radius: 30px;
+    border: none;
+    padding: 10px 20px;
+}
