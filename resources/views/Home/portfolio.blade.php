@@ -28,7 +28,7 @@
             <div class="container">
                 <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4">
                     <div class="col">
-                        <a href="">
+                        <a href="/detail">
                             <div class="card kartu-hasil text-white border-0">
                                 <img src="/img/akrilik.png" class="image" alt="Akrilik Laser Cutting">
                                 <div class="card-img-overlay">

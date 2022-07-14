@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\DetailController;
 
 /*
 |--------------------------------------------------------------------------
@@ -19,3 +20,4 @@ Route::get('/about', [HomeController::class, 'about']);
 Route::get('/portfolio', [HomeController::class, 'portfolio']);
 Route::get('/contact', [HomeController::class, 'contact']);
 Route::get('/team', [HomeController::class, 'team']);
+Route::get('/detail', [DetailController::class, 'detailhasil']);
