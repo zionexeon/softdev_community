@@ -1,11 +1,11 @@
 @extends('layouts.template')
 @section('content')
-<div id="judul" class="mt-5 mb-4" data-aos="fade-down" data-aos-duration="1000">
+<div id="judul" class="mt-5 mb-4" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false">
     <h1>Tentang SoftDev Community</h1>
 </div>
 <div class="container">
     <article class="pt-2">
-        <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100">
+        <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100" data-aos-once="false">
             <p class="fs-6"><b>Soft Dev Community</b> adalah sebuah komunitas yang berfokus dalam bidang IT seperti
                 dalam pembuatan
                 aplikasi web,
@@ -22,22 +22,24 @@
                 dengan teknologi masa kini.</p>
         </div>
     </article>
-    <article class="pt-2 pb-3" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150">
+    <article class="pt-2 pb-3" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150"
+        data-aos-once="false">
         <h2><b>Dukungan Tenaga Ahli</b></h2>
         <p class="fs-6">Komunitas ini didukung dengan tenaga ahli yang berpengalaman dan berkualitas yang menjadikan
             kami unggul dalam segi harga, kualitas dan kuantitas produksi.</p>
     </article>
-    <article class="pb-3" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
+    <article class="pb-3" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200" data-aos-once="false">
         <h2><b>Service Area</b></h2>
         <p class="fs-6">Kami melayani order pengerjaan pembuatan aplikasi mau itu aplikasi website, aplikasi dekstop,
             dan lain sebagainya. Service area kami adalah seluruh daerah di Negara Kesatuan Republik Indonesia dan Luar
             Negeri (Internasional).</p>
     </article>
     <article class="pb-3">
-        <h2 data-aos="fade-right" data-aos-duration="1000" data-aos-delay="250"><b>Visi & Misi SoftDev Community</b>
+        <h2 data-aos="fade-right" data-aos-duration="1000" data-aos-delay="250" data-aos-once="false"><b>Visi & Misi
+                SoftDev Community</b>
         </h2>
         <div class="row row-cols-1 row-cols-md-3 g-4 justify-content-center pt-4 pb-4" data-aos="fade-down"
-            data-aos-duration="1000" data-aos-delay="300">
+            data-aos-duration="1000" data-aos-delay="300" data-aos-once="false">
             <div class="col">
                 <div class="card h-100 visi-misi">
                     <div class="card-body">

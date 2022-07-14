@@ -1,10 +1,11 @@
 @extends('layouts.template')
 @section('content')
-<div id="judul" class="mt-5 mb-5">
+<div id="judul" class="mt-5 mb-5" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false">
     <h1>Hasil Kerja</h1>
 </div>
 <div class="container">
-    <ul class="nav nav-pills mb-3 justify-content-center align-items-center" id="pills-tab" role="tablist">
+    <ul class="nav nav-pills mb-3 justify-content-center align-items-center" id="pills-tab" role="tablist"
+        data-aos="fade-down" data-aos-duration="1000" data-aos-delay="100" data-aos-once="false">
         <li class="nav-item" role="presentation">
             <button class="nav-link active" id="pills-all-tab" data-bs-toggle="pill" data-bs-target="#pills-all"
                 type="button" role="tab" aria-controls="pills-all" aria-selected="true">All</button>
