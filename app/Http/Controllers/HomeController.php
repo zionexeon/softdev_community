@@ -49,4 +49,10 @@ class HomeController extends Controller
             "title" => "TESTIMONI"
         ]);
     }
+    public function kebijakan()
+    {
+        return view('Home/kebijakan', [
+            "title" => "KEBIJAKAN PRIBADI"
+        ]);
+    }
 }

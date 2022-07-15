@@ -18,6 +18,7 @@ use App\Http\Controllers\DetailController;
 Route::get('/', [HomeController::class, 'index']);
 Route::get('/mitra', [HomeController::class, 'mitra']);
 Route::get('/testimoni', [HomeController::class, 'testimoni']);
+Route::get('/kebijakan', [HomeController::class, 'kebijakan']);
 Route::get('/about', [HomeController::class, 'about']);
 Route::get('/portfolio', [HomeController::class, 'portfolio']);
 Route::get('/contact', [HomeController::class, 'contact']);
