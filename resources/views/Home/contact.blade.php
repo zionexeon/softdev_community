@@ -1,7 +1,7 @@
 @extends('layouts.template')
 @section('content')
 <div class="container justify-content-center align-items-center">
-    <div id="judul" class="mt-5">
+    <div id="judul" class="mt-5" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false">
         <h1>Kontak</h1>
     </div>
     <div class="row row-cols-1 row-cols-md-3 mt-5">

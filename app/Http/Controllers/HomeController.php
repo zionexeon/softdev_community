@@ -55,4 +55,10 @@ class HomeController extends Controller
             "title" => "KEBIJAKAN PRIBADI"
         ]);
     }
+    public function syarat()
+    {
+        return view('Home/syarat', [
+            "title" => "Syarat & Ketentuan"
+        ]);
+    }
 }

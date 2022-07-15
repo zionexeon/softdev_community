@@ -45,7 +45,7 @@
                 <div class="col-md">
                     <ul class="list-unstyled nav-links">
                         <li><a href="/kebijakan">Kebijakan pribadi</a></li>
-                        <li><a href="#">Syarat &amp; Kententuan</a></li>
+                        <li><a href="/syarat">Syarat &amp; Kententuan</a></li>
                         <li><a href="/mitra">Mitra</a></li>
                     </ul>
                 </div>
