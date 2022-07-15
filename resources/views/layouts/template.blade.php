@@ -36,7 +36,7 @@
                 <div class="col-md">
                     <ul class="list-unstyled nav-links">
                         <li><a href="#">Klien</a></li>
-                        <li><a href="/team">Team</a></li>
+                        <li><a href="/team">Tim</a></li>
                         <li><a href="#">Riwayat Kerja</a></li>
                         <li><a href="#">Testimoni</a></li>
                         <li><a href="#">Jurnal</a></li>
@@ -46,7 +46,7 @@
                     <ul class="list-unstyled nav-links">
                         <li><a href="#">Kebijakan pribadi</a></li>
                         <li><a href="#">Syarat &amp; Kententuan</a></li>
-                        <li><a href="#">Mitra</a></li>
+                        <li><a href="/mitra">Mitra</a></li>
                     </ul>
                 </div>
                 <div class="col-md text-md-center">

@@ -1,8 +1,8 @@
 @extends('layouts.template')
 @section('content')
 <div class="container">
-    <div id="judul" class="mt-5">
-        <h1>Team</h1>
+    <div id="judul" class="mt-5" data-aos="fade-down" data-aos-duration="1000">
+        <h1>Tim</h1>
     </div>
     <div class="tab-pane fade show active mt-5" id="pills-all" role="tabpanel" aria-labelledby="pills-all-tab"
         tabindex="0">

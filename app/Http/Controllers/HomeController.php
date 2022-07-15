@@ -33,8 +33,14 @@ class HomeController extends Controller
     }
     public function team()
     {
-        return view('home.team', [
-            "title" => "Team"
+        return view('Home/team', [
+            "title" => "TIM"
+        ]);
+    }
+    public function mitra()
+    {
+        return view('Home/mitra', [
+            "title" => "MITRA"
         ]);
     }
 }
