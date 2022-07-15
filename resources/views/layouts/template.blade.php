@@ -38,7 +38,7 @@
                         <li><a href="#">Klien</a></li>
                         <li><a href="/team">Tim</a></li>
                         <li><a href="#">Riwayat Kerja</a></li>
-                        <li><a href="#">Testimoni</a></li>
+                        <li><a href="/testimoni">Testimoni</a></li>
                         <li><a href="#">Jurnal</a></li>
                     </ul>
                 </div>
