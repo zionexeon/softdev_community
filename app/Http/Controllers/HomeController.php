@@ -43,4 +43,10 @@ class HomeController extends Controller
             "title" => "MITRA"
         ]);
     }
+    public function testimoni()
+    {
+        return view('Home/testimoni', [
+            "title" => "TESTIMONI"
+        ]);
+    }
 }
