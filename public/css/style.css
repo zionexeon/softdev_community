@@ -228,6 +228,12 @@
 .link-website:hover {
     color: #ff0019;
 }
+.link-website2 {
+    color: #4f76cf;
+}
+.link-website2:hover {
+    color: #ff0019;
+}
 
 .nav-pills .nav-item button.active {
     background-color: #ff0019;

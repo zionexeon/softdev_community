@@ -178,7 +178,7 @@
         </article>
         <center>
             <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300" data-aos-once="false" class="mb-3">
-                <a href="" class="btn btn-more text-decoration-none pt-3 pb-3">Lebih Lanjut..</a>
+                <a href="/testimoni" class="btn btn-more text-decoration-none pt-3 pb-3">Lebih Lanjut..</a>
             </div>
         </center>
     </div>

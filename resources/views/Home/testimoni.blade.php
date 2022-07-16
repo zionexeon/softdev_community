@@ -4,8 +4,22 @@
     <div id="judul" class="mt-5" data-aos="fade-down" data-aos-duration="1000">
         <h1>Testimonial</h1>
     </div>
+    <article>
+        <p class="fs-5 mt-3" data-aos="fade-right" data-aos-duration="1000" data-aos-once="false" data-aos-delay="100">
+            Kami akan menyelesaikan aplikasi kamu sesuai ekspekstasi dan deadline, karena kamu penting.
+            <b>Softdevcommunity</b>
+            merupakan tempat tercocok untuk kamu pilih sebagai jasa pembuatan aplikasi, dengan harga yang lebih
+            miring dan
+            cocok untuk kantong pelajar/mahasiswa serta bisnis yang baru dimulai. Kami berusaha menyediakan yang
+            terbaik untuk kamu, hanya di <a href="https://softdev.akriliklasercutting.com"
+                class="text-decoration-none link-website2">softdevcommunity.com</a>
+        </p>
+        <p class="fs-5" data-aos="fade-right" data-aos-duration="1000" data-aos-once="false" data-aos-delay="150">
+            Berikut adalah kesan - kesan dari klien kita :
+        </p>
+    </article>
     <div id="carouselExampleDark2" class="carousel carousel-dark slide mt-5 mb-5" data-bs-ride="carousel">
-        <div class="carousel-inner" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100"
+        <div class="carousel-inner" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200"
             data-aos-once="false">
             <div class="carousel-item active" data-bs-interval="10000">
                 <div class="bg-transparent">
