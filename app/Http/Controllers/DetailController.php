@@ -1,18 +1,17 @@
 <?php
 
 namespace App\Http\Controllers;
+use App\Models\Image;
 
 use Illuminate\Http\Request;
 
 class DetailController extends Controller
 {
-    public function detailhasil()
+    public function detailhasil($id)
     {
         return view('Detail/detailhasil', [
             "title" => "HASIL RINCIAN",
-            "gambar" => "/img/akrilik.png",
-            "klien" => "CV. Mekar Laser Cutting Digital",
-            "apk" => "Aplikasi Website"
+            "gambar" => Image::find($id),
         ]);
     }
 }

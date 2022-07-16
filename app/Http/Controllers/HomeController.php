@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
+use App\Models\Image;
 
 use Illuminate\Http\Request;
 
@@ -22,7 +23,11 @@ class HomeController extends Controller
     public function portfolio()
     {
         return view('Home/portfolio', [
-            "title" => "PORTFOLIO"
+            "title" => "PORTFOLIO",
+            "gambars" => Image::all(),
+            "website" => Image::where("jenis", "Aplikasi Web")->get(),
+            "dekstop" => Image::where("jenis", "Aplikasi Dekstop")->get(),
+            "iot" => Image::where("jenis", "IOT")->get(),
         ]);
     }
     public function contact()

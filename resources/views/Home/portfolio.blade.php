@@ -29,39 +29,19 @@
             <div class="container">
                 <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4" data-aos="fade-down" data-aos-duration="1000"
                     data-aos-delay="150" data-aos-once="false">
+                    @foreach ($gambars as $gambar )
                     <div class="col">
-                        <a href="/detail">
+                        <a href="/detail/{{ $gambar->id }}">
                             <div class="card kartu-hasil text-white border-0">
-                                <img src="/img/akrilik.png" class="image" alt="Akrilik Laser Cutting">
+                                <img src="/img/{{ $gambar->gambar }}" class="image" alt="Akrilik Laser Cutting">
                                 <div class="card-img-overlay">
-                                    <h5 class="card-title">Akrilik Laser Cutting</h5>
-                                    <span class="card-text fs-6">Aplikasi Website</span>
+                                    <h5 class="card-title">{{ $gambar->judul }}</h5>
+                                    <span class="card-text fs-6">{{ $gambar->jenis }}</span>
                                 </div>
                             </div>
                         </a>
                     </div>
-                    <div class="col">
-                        <a href="">
-                            <div class="card kartu-hasil text-white border-0">
-                                <img src="/img/bimahelm.png" class="card-img" alt="Bima Helm">
-                                <div class="card-img-overlay">
-                                    <h5 class="card-title">Bima Helm</h5>
-                                    <span class="card-text fs-6">Aplikasi Website</span>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col">
-                        <a href="">
-                            <div class="card kartu-hasil text-white border-0">
-                                <img src="/img/iot.png" class="card-img" alt="IOT">
-                                <div class="card-img-overlay">
-                                    <h5 class="card-title">IOT Arduino</h5>
-                                    <span class="card-text fs-6">IOT</span>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
+                    @endforeach
                 </div>
             </div>
         </div>
@@ -71,28 +51,19 @@
             <div class="container">
                 <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4" data-aos="fade-down" data-aos-duration="1000"
                     data-aos-delay="150" data-aos-once="false">
+                    @foreach ($website as $website)
                     <div class="col">
-                        <a href="">
+                        <a href="/detail/{{ $website->id }}">
                             <div class="card kartu-hasil text-white border-0">
-                                <img src="/img/akrilik.png" class="image" alt="Akrilik Laser Cutting">
+                                <img src="/img/{{ $website->gambar }}" class="image" alt="Akrilik Laser Cutting">
                                 <div class="card-img-overlay">
-                                    <h5 class="card-title">Akrilik Laser Cutting</h5>
-                                    <span class="card-text fs-6">Aplikasi Website</span>
+                                    <h5 class="card-title">{{ $website->judul }}</h5>
+                                    <span class="card-text fs-6">{{ $website->jenis }}</span>
                                 </div>
                             </div>
                         </a>
                     </div>
-                    <div class="col">
-                        <a href="">
-                            <div class="card kartu-hasil text-white border-0">
-                                <img src="/img/bimahelm.png" class="card-img" alt="Bima Helm">
-                                <div class="card-img-overlay">
-                                    <h5 class="card-title">Bima Helm</h5>
-                                    <span class="card-text fs-6">Aplikasi Website</span>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
+                    @endforeach
                 </div>
             </div>
         </div>
@@ -100,17 +71,19 @@
             <div class="container">
                 <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4" data-aos="fade-down" data-aos-duration="1000"
                     data-aos-delay="150" data-aos-once="false">
+                    @foreach ($iot as $iot)
                     <div class="col">
-                        <a href="">
+                        <a href="/detail/{{ $iot->id }}">
                             <div class="card kartu-hasil text-white border-0">
-                                <img src="/img/iot.png" class="card-img" alt="IOT">
+                                <img src="/img/{{ $iot->gambar }}" class="image" alt="Akrilik Laser Cutting">
                                 <div class="card-img-overlay">
-                                    <h5 class="card-title">IOT Arduino</h5>
-                                    <span class="card-text fs-6">IOT</span>
+                                    <h5 class="card-title">{{ $iot->judul }}</h5>
+                                    <span class="card-text fs-6">{{ $iot->jenis }}</span>
                                 </div>
                             </div>
                         </a>
                     </div>
+                    @endforeach
                 </div>
             </div>
         </div>
