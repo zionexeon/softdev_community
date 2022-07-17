@@ -24,4 +24,5 @@ Route::get('/about', [HomeController::class, 'about']);
 Route::get('/portfolio', [HomeController::class, 'portfolio']);
 Route::get('/contact', [HomeController::class, 'contact']);
 Route::get('/team', [HomeController::class, 'team']);
+Route::get('/klien', [HomeController::class, 'klien']);
 Route::get('/detail/{id}', [DetailController::class, 'detailhasil']);

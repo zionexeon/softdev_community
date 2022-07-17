@@ -66,4 +66,10 @@ class HomeController extends Controller
             "title" => "Syarat & Ketentuan"
         ]);
     }
+    public function klien()
+    {
+        return view('Home/klien', [
+            "title" => "KLIEN"
+        ]);
+    }
 }
