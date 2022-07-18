@@ -72,4 +72,10 @@ class HomeController extends Controller
             "title" => "KLIEN"
         ]);
     }
+    public function payment()
+    {
+        return view('Home/payment', [
+            "title" => "PEMBAYARAN"
+        ]);
+    }
 }
