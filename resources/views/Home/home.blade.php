@@ -172,7 +172,8 @@
                 merupakan tempat tercocok untuk kamu pilih sebagai jasa pembuatan aplikasi, dengan harga yang lebih
                 miring dan
                 cocok untuk kantong pelajar/mahasiswa serta bisnis yang baru dimulai. Kami berusaha menyediakan yang
-                terbaik untuk kamu, hanya di softdevcommunity.com
+                terbaik untuk kamu, hanya di <a href="https://softdev.akriliklasercutting.com"
+                    class="text-decoration-none link-website2">softdevcommunity.com</a>
             </p>
         </article>
         <center>

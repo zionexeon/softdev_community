@@ -4,23 +4,21 @@
     <h1>Tentang SoftDev Community</h1>
 </div>
 <div class="container">
-    <article class="pt-2">
-        <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100" data-aos-once="false">
-            <p class="fs-6"><b>Soft Dev Community</b> adalah sebuah komunitas yang berfokus dalam bidang IT seperti
-                dalam pembuatan
-                aplikasi web,
-                dekstop, prototype IOT, dan lain sebagainnya. Komunitas ini terdiri dari beberapa orang
-                didalamnya
-                yang sebagian besar lulusan dari SMK NEGERI 1 PURBALINGGA. <b>SoftDev Community</b> ini dibentuk untuk
-                menghasilkan
-                sebuah
-                karya
-                yang bisa menghasilkan
-                sesuatu yang berguna bagi masyarakat. Kami disini hadir untuk memberikan inovasi dengan teknologi
-                terbarukan.
-                Teknologi yang dibuat serta dikembangkan
-                dengan teknologi masa kini.</p>
-        </div>
+    <article class="pt-2" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100" data-aos-once="false">
+        <p class="fs-6"><b>Soft Dev Community</b> adalah sebuah komunitas yang berfokus dalam bidang IT seperti
+            dalam pembuatan
+            aplikasi web,
+            dekstop, prototype IOT, dan lain sebagainnya. Komunitas ini terdiri dari beberapa orang
+            didalamnya
+            yang sebagian besar lulusan dari SMK NEGERI 1 PURBALINGGA. <b>SoftDev Community</b> ini dibentuk untuk
+            menghasilkan
+            sebuah
+            karya
+            yang bisa menghasilkan
+            sesuatu yang berguna bagi masyarakat. Kami disini hadir untuk memberikan inovasi dengan teknologi
+            terbarukan.
+            Teknologi yang dibuat serta dikembangkan
+            dengan teknologi masa kini.</p>
     </article>
     <article class="pt-2 pb-3" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150"
         data-aos-once="false">
@@ -38,8 +36,9 @@
         <h2 data-aos="fade-right" data-aos-duration="1000" data-aos-delay="250" data-aos-once="false"><b>Visi & Misi
                 SoftDev Community</b>
         </h2>
-        <div class="row row-cols-1 row-cols-md-3 g-4 justify-content-center pt-4 pb-4" data-aos="fade-down"
-            data-aos-duration="1000" data-aos-delay="300" data-aos-once="false">
+    </article>
+    <div class="container" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="300" data-aos-once="false">
+        <div class="row row-cols-1 row-cols-md-3 g-4 justify-content-center pt-4 pb-4">
             <div class="col">
                 <div class="card h-100 visi-misi">
                     <div class="card-body">
@@ -68,58 +67,54 @@
                 </div>
             </div>
         </div>
-    </article>
+    </div>
 </div>
 <div class="container">
-    <article class="text-center justify-content-center align-items-center mb-5">
-        <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="100" data-aos-once="false">
-            <h1 class="text-capitalize fw-bold">Pelayanan SoftDev Community</h1>
-            <p class="fs-6">Berikut merupakan beberapa layanan kami, untuk kamu yang tersayang.</p>
+    <article class="pb-3 text-center article-pelayanan" data-aos="fade-down" data-aos-duration="1000"
+        data-aos-delay="300" data-aos-once="false">
+        <h1 class="text-capitalize fw-bold">Pelayanan SoftDev Community</h1>
+        <p class="fs-6">Berikut merupakan beberapa layanan kami, untuk kamu yang tersayang.</p>
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col">
+                <div class="card kartu-pelayanan mb-3">
+                    <div class="card-body text-center">
+                        <i class="fa-solid fa-sack-dollar fa-5x p-3"></i>
+                        <h4 class="fw-bold">Harga Terjangkau</h4>
+                        <p class="card-text fs-5">Kami memberikan pelayanan yang terjamin dan lebih terjangkau dari jasa
+                            pembuat aplikasi lainnya.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card kartu-pelayanan mb-3">
+                    <div class="card-body text-center">
+                        <i class="fa-solid fa-handshake-simple fa-5x p-3"></i>
+                        <h4 class="fw-bold">Terpercaya</h4>
+                        <p class="card-text fs-5">Kami memastikan bahwa kami dapat dipercaya, dan akan menyelesaikan
+                            aplikasi
+                            sesuai dengan keinginan kamu.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card kartu-pelayanan mb-3">
+                    <div class="card-body text-center">
+                        <i class="fa-solid fa-laptop-code fa-5x p-3"></i>
+                        <h4 class="fw-bold">Tanggung Jawab</h4>
+                        <p class="card-text fs-5">Kami memastikan bahwa tidak ada kelalean dalam menyelesaikan aplikasi
+                            sesuai dengan keinginan kamu.</p>
+                    </div>
+                </div>
+            </div>
         </div>
+        <center class="mt-3">
+            <div data-aos="fade-down" data-aos-duration="1000" data-aos-once="false">
+                <a href="https://wa.me/6285875015516?text=Saya%20mau%20tanya%20tanya%20terlebih%20dahulu"
+                    class="btn btn-more text-decoration-none pt-3 pb-3">Mau Tanya - Tanya Dulu</a>
+            </div>
+        </center>
     </article>
-    <div class="row mb-4 row-cols-1 row-cols-md-3 g-4">
-        <div class="col mb-3">
-            <div class="card kartu-pelayanan" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150"
-                data-aos-once="false">
-                <div class="card-body text-center">
-                    <i class="fa-solid fa-sack-dollar fa-5x p-3"></i>
-                    <h4 class="fw-bold">Harga Terjangkau</h4>
-                    <p class="card-text fs-5">Kami memberikan pelayanan yang terjamin dan lebih terjangkau dari jasa
-                        pembuat aplikasi lainnya.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col mb-3">
-            <div class="card kartu-pelayanan" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="200"
-                data-aos-once="false">
-                <div class="card-body text-center">
-                    <i class="fa-solid fa-handshake-simple fa-5x p-3"></i>
-                    <h4 class="fw-bold">Terpercaya</h4>
-                    <p class="card-text fs-5">Kami memastikan bahwa kami dapat dipercaya, dan akan menyelesaikan
-                        aplikasi
-                        sesuai dengan keinginan kamu.
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="col mb-3">
-            <div class="card kartu-pelayanan" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="250"
-                data-aos-once="false">
-                <div class="card-body text-center">
-                    <i class="fa-solid fa-laptop-code fa-5x p-3"></i>
-                    <h4 class="fw-bold">Tanggung Jawab</h4>
-                    <p class="card-text fs-5">Kami memastikan bahwa tidak ada kelalean dalam menyelesaikan aplikasi
-                        sesuai dengan keinginan kamu.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <center class="pb-4">
-        <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300" data-aos-once="false">
-            <a href="https://wa.me/6281548806114?text=Saya%20mau%20tanya%20tanya%20terlebih%20dahulu"
-                class="btn btn-more text-decoration-none pt-3 pb-3">Mau Tanya - Tanya Dulu</a>
-        </div>
-    </center>
 </div>
 <div class="container">
     <article class="pt-2 pb-3" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="350">
