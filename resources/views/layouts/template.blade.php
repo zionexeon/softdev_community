@@ -45,7 +45,7 @@
                     <ul class="list-unstyled nav-links">
                         <li><a href="/kebijakan">Kebijakan pribadi</a></li>
                         <li><a href="/syarat">Syarat &amp; Kententuan</a></li>
-                        <li><a href="mailto:softdevcom22@gmail.com">Saran &amp; Kritik</a></li>
+                        <li><a href="mailto:softdevcom22@gmail.com" target="_blank">Saran &amp; Kritik</a></li>
                         <li><a href="/mitra">Mitra</a></li>
                     </ul>
                 </div>
