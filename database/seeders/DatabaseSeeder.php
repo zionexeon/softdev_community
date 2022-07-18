@@ -21,6 +21,7 @@ class DatabaseSeeder extends Seeder
             "judul_detail" => "Aplikasi website Akrilik Laser Cutting",
             "detail" => "Aplikasi website profil perusahaan CV. Mekar Laser dengan nama Akrilik Laser
             Cutting",
+            "rincian" => "Laravel 8, PHP 7.4, Mysql",
             "judul" => "Akrilik Laser Cutting",
             "jenis" => "Aplikasi Web",
             "klien" => "CV. Mekar Cutting Digital",
@@ -30,6 +31,7 @@ class DatabaseSeeder extends Seeder
             "gambar" => "bimahelm.png",
             "judul_detail" => "Aplikasi website Bima Helm",
             "detail" => "Aplikasi website ke dua dari perusahaan CV. Mekar Laser dengan nama Bima Helm",
+            "rincian" => "Laravel 8, PHP 7.4, Mysql",
             "judul" => "Bima Helm",
             "jenis" => "Aplikasi Web",
             "klien" => "CV. Mekar Cutting Digital",
@@ -39,6 +41,7 @@ class DatabaseSeeder extends Seeder
             "gambar" => "iot.png",
             "judul_detail" => "Projek Prototype IOT",
             "detail" => "Projek lain dari perusahaan CV. Mekar Laser yaitu Prototype IOT",
+            "rincian" => "Arduino",
             "judul" => "Prototype IOT",
             "jenis" => "IOT",
             "klien" => "CV. Mekar Cutting Digital",

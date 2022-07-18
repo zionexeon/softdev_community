@@ -12,14 +12,9 @@
                     <div class="card-body">
                         <h2 class="card-title text-capitalize fw-bold pb-2">{{ $gambar->judul_detail }}</h2>
                         <p class="card-text">{{ $gambar->detail }}</p>
-                        <span class="card-text fw-bold">
-                            Rincian :
-                            <ul>
-                                <li>Laravel 8</li>
-                                <li>PHP 7.4</li>
-                                <li>Mysql</li>
-                            </ul>
-                        </span>
+                        <p class="card-text fw-bold fs-5">
+                            Rincian : {{ $gambar->rincian }}
+                        </p>
                         <h5 class="card-text">Klien : {{ $gambar->klien }}</h5>
                         <h5 class="card-text">Projek : {{ $gambar->apk }}</h5>
                         <a href="/portfolio" class="btn btn-kembali text-decoration-none mt-3">

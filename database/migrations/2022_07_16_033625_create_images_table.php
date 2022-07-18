@@ -18,6 +18,7 @@ class CreateImagesTable extends Migration
             $table->string('gambar');
             $table->string('judul_detail');
             $table->string('detail');
+            $table->string('rincian');
             $table->string('judul');
             $table->string('jenis');
             $table->string('klien');
