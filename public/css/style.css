@@ -26,10 +26,12 @@
 .carousel-caption {
     z-index: 2;
     font-weight: bold;
-    font-size: 30px;
-    top: 53%;
     display: block;
+    left: 15%;
+    top: 50% !important;
     transform: translateY(-50%);
+    text-align: center;
+    bottom: initial;
 }
 
 #carousel-gambar img {
