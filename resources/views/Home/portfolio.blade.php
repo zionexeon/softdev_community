@@ -33,7 +33,7 @@
                     <div class="col">
                         <a href="/detail/{{ $gambar->id }}">
                             <div class="card kartu-hasil text-white border-0">
-                                <img src="/img/{{ $gambar->gambar }}" class="image" alt="Akrilik Laser Cutting">
+                                <img src="/img/{{ $gambar->gambar }}" class="image" alt="{{ $gambar->judul }}">
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">{{ $gambar->judul }}</h5>
                                     <span class="card-text fs-6">{{ $gambar->jenis }}</span>
