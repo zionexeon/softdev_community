@@ -157,42 +157,47 @@
     <article class="pb-3 mt-5 text-center" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false">
         <h1 class="text-capitalize fw-bold">Percaya kami</h1>
     </article>
-    <div class="row">
-        <center>
+    <div class="row justify-content-center row-cols-1 row-cols-md-2 g-4">
+        <div class="col">
             <div class="card border-0">
                 <img src="/img/tech.gif" class="card-img-top" alt="" style="max-width: 400px; min-width: 100%;"
                     class="mb-3" data-aos="fade-up" data-aos-duration="1000" data-aos-once="false" data-aos-delay="200">
             </div>
-        </center>
-        <article>
-            <p class="text-center fs-5 mt-3" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false"
-                data-aos-delay="250">
-                Kami akan menyelesaikan aplikasi kamu sesuai ekspekstasi dan deadline, karena kamu penting.
-                <b>Softdevcommunity</b>
-                merupakan tempat tercocok untuk kamu pilih sebagai jasa pembuatan aplikasi, dengan harga yang lebih
-                miring dan
-                cocok untuk kantong pelajar/mahasiswa serta bisnis yang baru dimulai. Kami berusaha menyediakan yang
-                terbaik untuk kamu, hanya di <a href="https://softdev.akriliklasercutting.com"
-                    class="text-decoration-none link-website2">softdevcommunity.com</a>
-            </p>
-        </article>
-        <center>
-            <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300" data-aos-once="false" class="mb-3">
-                <a href="/testimoni" class="btn btn-more text-decoration-none pt-3 pb-3">Lebih Lanjut..</a>
-            </div>
-        </center>
+        </div>
+        <div class="col">
+            <article>
+                <p class="text-center fs-5 mt-3" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false"
+                    data-aos-delay="250">
+                    Kami akan menyelesaikan aplikasi kamu sesuai ekspekstasi dan deadline, karena kamu penting.
+                    <b>Softdevcommunity</b>
+                    merupakan tempat tercocok untuk kamu pilih sebagai jasa pembuatan aplikasi, dengan harga yang lebih
+                    miring dan
+                    cocok untuk kantong pelajar/mahasiswa serta bisnis yang baru dimulai. Kami berusaha menyediakan yang
+                    terbaik untuk kamu, hanya di <a href="https://softdev.akriliklasercutting.com"
+                        class="text-decoration-none link-website2">softdevcommunity.com</a>
+                </p>
+                <center>
+                    <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300" data-aos-once="false"
+                        class="mb-3">
+                        <a href="/testimoni" class="btn btn-more text-decoration-none pt-3 pb-3">Lebih Lanjut..</a>
+                    </div>
+                </center>
+            </article>
+        </div>
     </div>
 </div>
 <div class="container">
     <article class="pb-3 mt-5 text-center" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false">
         <h1 class="text-capitalize fw-bold">Mitra Kami</h1>
     </article>
-    <div class="row">
+    <div class="row justify-content-center row-cols-1 row-cols-md-2 g-4">
         <center>
-            <div class="card border-0 mb-3">
-                <img src="/img/Mekar Laser Logo 2.png" class="card-img-top" alt=""
-                    style="max-width: 550px; min-width: 100%;" class="mb-5 mt-4" data-aos="fade-up"
-                    data-aos-duration="1000" data-aos-once="false" data-aos-delay="200">
+            <div class="col">
+                <div class="card border-0 mb-3">
+                    <img src="/img/Mekar Laser Logo 2.png" class="card-img-top" alt=""
+                        style="max-width: 550px; min-width: 100%;" class="mb-5 mt-4" data-aos="fade-up"
+                        data-aos-duration="1000" data-aos-once="false" data-aos-delay="200">
+                </div>
             </div>
         </center>
     </div>

@@ -37,7 +37,6 @@
                     <ul class="list-unstyled nav-links">
                         <li><a href="/klien">Klien</a></li>
                         <li><a href="/team">Tim</a></li>
-                        <li><a href="">Riwayat Kerja</a></li>
                         <li><a href="/testimoni">Testimoni</a></li>
                     </ul>
                 </div>

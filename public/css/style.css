@@ -9,6 +9,13 @@
 .navbar-nav li a:hover {
     color: #ff0019;
 }
+.link-detail {
+    color: rgb(0, 0, 0);
+}
+
+.link-detail:hover {
+    color: #ff0019;
+}
 
 .drk:after {
     content: "";

@@ -7,12 +7,11 @@
     <div class="card border-0 pt-3">
         <div class="card-body">
             <ol class="fs-5" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100" data-aos-once="true">
-                <li>Pengerjaan order maksimal 2 hari setelah down payment sebesar 50% kami terima</li>
                 <li>Pengerjaan pembuatan sesuai dengan kesepakatan yang telah ditentukan sebelumnya</li>
                 <li>Selama proses pembuatan kami WAJIB mengirimkan dokumentasi berupa foto atau video</li>
-                <li>Pengiriman luar kota atau propinsi wajib packing kayu</li>
+                <li>Pengiriman file melalui link Google Drive atau sejenisnya</li>
                 <li>Pembatalan order ditengah jalan, down payment hangus dan barang menjadi hak milik kami</li>
-                <li>Pengiriman barang setelah pembayaran pelunasan 100% kami terima</li>
+                <li>Pengiriman file setelah pembayaran pelunasan 100% kami terima</li>
             </ol>
             <article data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150" data-aos-once="true">
                 <h2 class="fw-bold">100% Refund</h2>

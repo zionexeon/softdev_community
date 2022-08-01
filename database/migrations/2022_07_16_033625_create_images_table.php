@@ -23,6 +23,7 @@ class CreateImagesTable extends Migration
             $table->string('jenis');
             $table->string('klien');
             $table->string('apk');
+            $table->string('link');
             $table->timestamps();
         });
     }

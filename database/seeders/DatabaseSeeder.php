@@ -25,7 +25,8 @@ class DatabaseSeeder extends Seeder
             "judul" => "Akrilik Laser Cutting",
             "jenis" => "Aplikasi Web",
             "klien" => "CV. Mekar Cutting Digital",
-            "apk" => "Aplikasi Web"
+            "apk" => "Aplikasi Web",
+            "link" => "https://akriliklasercutting.com/"
         ]);
         Image::create ([
             "gambar" => "bimahelm.png",
@@ -35,7 +36,8 @@ class DatabaseSeeder extends Seeder
             "judul" => "Bima Helm",
             "jenis" => "Aplikasi Web",
             "klien" => "CV. Mekar Cutting Digital",
-            "apk" => "Aplikasi Web"
+            "apk" => "Aplikasi Web",
+            "link" => "Proses"
         ]);
         Image::create ([
             "gambar" => "iot.png",
@@ -45,7 +47,8 @@ class DatabaseSeeder extends Seeder
             "judul" => "Prototype IOT",
             "jenis" => "IOT",
             "klien" => "CV. Mekar Cutting Digital",
-            "apk" => "IOT"
+            "apk" => "IOT",
+            "link" => ""
         ]);
     }
 }
