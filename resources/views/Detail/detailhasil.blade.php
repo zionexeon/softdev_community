@@ -7,7 +7,7 @@
                 <div class="card mb-3 border-0">
                     <div class="row g-0">
                         <div class="col-md-5">
-                            <img src="/img/{{ $gambar->gambar }}" class="img-fluid rounded-start pt-3"
+                            <img src="{{ $gambar->gambar }}" class="img-fluid rounded-start pt-3"
                                 alt="{{ $gambar->judul }}">
                         </div>
                         <div class="col-md-7">

@@ -17,7 +17,7 @@ class DatabaseSeeder extends Seeder
     {
         // \App\Models\User::factory(10)->create();
         Image::create([
-            "gambar" => "akrilik.png",
+            "gambar" => "https://res.cloudinary.com/dnmkw2715/image/upload/v1664641179/softdev/akrilik_jw6xhb.png",
             "judul_detail" => "Aplikasi website Akrilik Laser Cutting",
             "detail" => "Project pertama aplikasi web dari softdev community yaitu landing page atau aplikasi web profil yang bernama Akrilik Laser Cutting",
             "rincian" => "Laravel 8, PHP 7.4, Mysql, Bootstrap 5, etc",
@@ -28,7 +28,7 @@ class DatabaseSeeder extends Seeder
             "link" => "https://akriliklasercutting.com/"
         ]);
         Image::create([
-            "gambar" => "bimahelm.png",
+            "gambar" => "https://res.cloudinary.com/dnmkw2715/image/upload/v1664641187/softdev/bimahelm_wmyruz.png",
             "judul_detail" => "Aplikasi website Bima Helm",
             "detail" => "Project aplikasi website ke dua dari softdev community dengan nama Bima Helm",
             "rincian" => "Laravel 8, PHP 7.4, Mysql, Bootstrap 5, etc",
@@ -39,7 +39,7 @@ class DatabaseSeeder extends Seeder
             "link" => "https://bimahelm.com"
         ]);
         Image::create([
-            "gambar" => "smegamart.png",
+            "gambar" => "https://res.cloudinary.com/dnmkw2715/image/upload/v1664641197/softdev/smegamart_bliwxd.png",
             "judul_detail" => "Aplikasi website SmegaMart",
             "detail" => "Project aplikasi web ke tiga dari softdev community dengan nama SmegaMart",
             "rincian" => "Laravel 8, PHP 7.4, Tailwind Css, Javascript, etc",
@@ -50,7 +50,7 @@ class DatabaseSeeder extends Seeder
             "link" => "https://newsmegamart.com"
         ]);
         Image::create([
-            "gambar" => "iot.png",
+            "gambar" => "https://res.cloudinary.com/dnmkw2715/image/upload/v1664641196/softdev/iot_iq9dor.png",
             "judul_detail" => "Projek Prototype IOT",
             "detail" => "Projek lain dari softdev community yaitu Prototype IOT",
             "rincian" => "Arduino",
@@ -58,6 +58,17 @@ class DatabaseSeeder extends Seeder
             "jenis" => "IOT",
             "klien" => "CV. Mekar Cutting Digital",
             "apk" => "IOT",
+            "link" => ""
+        ]);
+        Image::create([
+            "gambar" => "https://res.cloudinary.com/dnmkw2715/image/upload/v1664685888/softdev/desktop_q03ec5.jpg",
+            "judul_detail" => "Aplikasi Desktop Kasir",
+            "detail" => "Projek aplikasi desktop dari softdev community yaitu aplikasi desktop kasir",
+            "rincian" => "Java",
+            "judul" => "Desktop Kasir",
+            "jenis" => "Aplikasi Desktop",
+            "klien" => "SMKN 1 Purbalingga",
+            "apk" => "Aplikasi Desktop",
             "link" => ""
         ]);
     }

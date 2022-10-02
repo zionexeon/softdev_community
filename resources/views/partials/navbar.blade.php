@@ -1,7 +1,8 @@
 <nav class="navbar navbar-expand-lg background-navbar">
     <div class="container p-2">
         <a class="navbar-brand fw-bold fs-4" href="/">
-            <img src="/img/SoftDev Logo 3.png" alt="" width="200px">
+            <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641188/softdev/SoftDev_Logo_3_icjaul.png"
+                alt="" width="200px">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

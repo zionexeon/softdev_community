@@ -4,7 +4,8 @@
     <div class="carousel-inner">
         <div class="carousel-item drk active">
             <div id="carousel-gambar">
-                <img src="/img/programmer1.jpg" class="d-block w-100" alt="...">
+                <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641181/softdev/programmer1_xgrkmb.jpg"
+                    class="d-block w-100" alt="...">
                 <div class="carousel-caption caption1 fs-4">
                     <p class="text-uppercase">Selamat datang di softdev community</p>
                     <p class="text-capitalize">Teknologi yang lebih baik, masa depan yang lebih baik</p>
@@ -13,7 +14,8 @@
         </div>
         <div class="carousel-item drk">
             <div id="carousel-gambar">
-                <img src="/img/programmer2.jpg" class="d-block w-100" alt="...">
+                <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641196/softdev/programmer2_g4qpdo.jpg"
+                    class="d-block w-100" alt="...">
                 <div class="carousel-caption caption2 fs-4">
                     <p class="text-uppercase">Tersedia Jasa Pembuatan Aplikasi</p>
                     <p class="text-capitalize">Aplikasi anda siap mendunia</p>
@@ -22,7 +24,8 @@
         </div>
         <div class="carousel-item drk">
             <div id="carousel-gambar">
-                <img src="/img/programmer3.jpg" class="d-block w-100" alt="...">
+                <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641203/softdev/programmer3_lss9qp.jpg"
+                    class="d-block w-100" alt="...">
                 <div class="carousel-caption caption3 fs-4">
                     <p class="text-uppercase">Pelayanan terbaik harga terjangkau</p>
                     <p class="text-capitalize">Cocok untuk semua kalangan</p>
@@ -53,8 +56,8 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <img src="/img/SoftDev Logo 2.png" style="max-width: 400px; min-width: 100%;" class="card-img-top"
-                        alt="SoftDev Community">
+                    <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641186/softdev/SoftDev_Logo_2_xf82ww.png"
+                        style="max-width: 400px; min-width: 100%;" class="card-img-top" alt="SoftDev Community">
                 </div>
             </div>
         </div>
@@ -68,11 +71,11 @@
             <div class="col mb-3 pb-5">
                 <div class="card kartu-pesanan">
                     <div class="card-body text-center">
-                        <i class="fa-solid fa-book fa-5x pb-3 pt-3"></i>
-                        <h4 class="fw-bold">Tugas Sekolah</h4>
-                        <p class="card-text fs-5">Kami akan mengerjakan aplikasi untuk tugas sekolah kamu, jangan
-                            khawatir
-                            kami akan memberikan file .zip</p>
+                        <i class="fa-solid fa-address-card fa-5x pt-3 pb-3"></i>
+                        <h4 class="fw-bold">Website Portfolio / Landing Page</h4>
+                        <p class="card-text fs-5">
+                            Kami mengerjakan aplikasi web untuk portfolio kalian
+                        </p>
                     </div>
                 </div>
                 <center><a href="https://wa.me/6285875015516?text=Saya%20mau%20pesan%20tugas%20sekolah"
@@ -81,9 +84,11 @@
             <div class="col mb-3 pb-5">
                 <div class="card kartu-pesanan">
                     <div class="card-body text-center">
-                        <i class="fa-solid fa-book-open fa-5x pt-3 pb-3"></i>
-                        <h4 class="fw-bold">Tugas Kuliah</h4>
-                        <p class="card-text fs-5">Kami juga melayani joki tugas aplikasi kuliah loh! tersedia file.zip
+                        <i class="fa-solid fa-cash-register fa-5x pb-3 pt-3"></i>
+                        <h4 class="fw-bold">Website E Commerce</h4>
+                        <p class="card-text fs-5">
+                            Kami juga melayani pembuatan website e commerce seperti e commerce lainnya contoh seperti
+                            Shopee, Tokopedia, dll
                         </p>
                     </div>
                 </div>
@@ -93,11 +98,12 @@
             <div class="col mb-3 pb-5">
                 <div class="card kartu-pesanan">
                     <div class="card-body text-center">
-                        <i class="fa-solid fa-briefcase fa-5x pt-3 pb-3"></i>
-                        <h4 class="fw-bold">Website Bisnis</h4>
-                        <p class="card-text fs-5">Kami akan membuatkan aplikasi untuk bisnis kamu. Cukup jelaskan
-                            mengenai
-                            bisnis kamu dan aplikasi impianmu maka VOILLA! kami akan membuatnya untuk kamu.</p>
+                        <i class="fa-solid fa-desktop fa-5x pb-3 pt-3"></i>
+                        <h4 class="fw-bold">Aplikasi Dekstop</h4>
+                        <p class="card-text fs-5">
+                            Selain aplikasi web, kami juga melayani pembuatan aplikasi desktop seperti aplikasi desktop
+                            kasir
+                        </p>
                     </div>
                 </div>
                 <center><a href="https://wa.me/6285875015516?text=Saya%20mau%20pesan%20website%20bisnis"
@@ -160,8 +166,9 @@
     <div class="row justify-content-center row-cols-1 row-cols-md-2 g-4">
         <div class="col">
             <div class="card border-0">
-                <img src="/img/tech.gif" class="card-img-top" alt="" style="max-width: 400px; min-width: 100%;"
-                    class="mb-3" data-aos="fade-up" data-aos-duration="1000" data-aos-once="false" data-aos-delay="200">
+                <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641291/softdev/tech_tdfcr0.gif"
+                    class="card-img-top" alt="" style="max-width: 400px; min-width: 100%;" class="mb-3"
+                    data-aos="fade-up" data-aos-duration="1000" data-aos-once="false" data-aos-delay="200">
             </div>
         </div>
         <div class="col">
@@ -194,9 +201,9 @@
         <center>
             <div class="col">
                 <div class="card border-0 mb-3">
-                    <img src="/img/Mekar Laser Logo 2.png" class="card-img-top" alt=""
-                        style="max-width: 550px; min-width: 100%;" class="mb-5 mt-4" data-aos="fade-up"
-                        data-aos-duration="1000" data-aos-once="false" data-aos-delay="200">
+                    <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641177/softdev/Mekar_Laser_Logo_2_k47yqk.png"
+                        class="card-img-top" alt="" style="max-width: 550px; min-width: 100%;" class="mb-5 mt-4"
+                        data-aos="fade-up" data-aos-duration="1000" data-aos-once="false" data-aos-delay="200">
                 </div>
             </div>
         </center>

@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
+
 use App\Models\Image;
 
 use Illuminate\Http\Request;
@@ -26,7 +27,7 @@ class HomeController extends Controller
             "title" => "PORTFOLIO",
             "gambars" => Image::all(),
             "website" => Image::where("jenis", "Aplikasi Web")->get(),
-            "dekstop" => Image::where("jenis", "Aplikasi Dekstop")->get(),
+            "desktop" => Image::where("jenis", "Aplikasi Desktop")->get(),
             "iot" => Image::where("jenis", "IOT")->get(),
         ]);
     }

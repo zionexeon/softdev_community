@@ -12,37 +12,43 @@
         <div class="col">
             <div class="card border-0" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false"
                 data-aos-delay="150">
-                <img src="/img/bri.png" alt="Bank BRI">
+                <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641174/softdev/bri_ykgfri.png"
+                    alt="Bank BRI">
             </div>
         </div>
         <div class="col">
             <div class="card border-0" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false"
                 data-aos-delay="150">
-                <img src="/img/bca.png" alt="Bank BCA">
+                <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641173/softdev/bca_n21uwj.png"
+                    alt="Bank BCA">
             </div>
         </div>
         <div class="col">
             <div class="card border-0" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false"
                 data-aos-delay="150">
-                <img src="/img/bni.png" alt="Bank BNI">
+                <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641171/softdev/bni_lzsvmh.png"
+                    alt="Bank BNI">
             </div>
         </div>
         <div class="col">
             <div class="card border-0" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false"
                 data-aos-delay="150">
-                <img src="/img/mandiri.png" alt="Bank MANDIRI">
+                <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641178/softdev/mandiri_gluusk.png"
+                    alt="Bank MANDIRI">
             </div>
         </div>
         <div class="col">
             <div class="card border-0" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false"
                 data-aos-delay="150">
-                <img src="/img/dana.png" alt="DANA">
+                <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641175/softdev/dana_xqwri5.png"
+                    alt="DANA">
             </div>
         </div>
         <div class="col">
             <div class="card border-0" data-aos="fade-down" data-aos-duration="1000" data-aos-once="false"
                 data-aos-delay="150">
-                <img src="/img/paypal.png" alt="PAYPAL">
+                <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641182/softdev/paypal_ldohtm.png"
+                    alt="PAYPAL">
             </div>
         </div>
     </div>

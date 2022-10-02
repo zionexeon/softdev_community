@@ -12,7 +12,7 @@
         </li>
         <li class="nav-item" role="presentation">
             <button class="nav-link" id="pills-dekstop-tab" data-bs-toggle="pill" data-bs-target="#pills-dekstop"
-                type="button" role="tab" aria-controls="pills-dekstop" aria-selected="false">Aplikasi Dekstop</button>
+                type="button" role="tab" aria-controls="pills-dekstop" aria-selected="false">Aplikasi Desktop</button>
         </li>
         <li class="nav-item" role="presentation">
             <button class="nav-link" id="pills-website-tab" data-bs-toggle="pill" data-bs-target="#pills-website"
@@ -33,7 +33,7 @@
                     <div class="col">
                         <a href="/detail/{{ $gambar->id }}">
                             <div class="card kartu-hasil text-white border-0">
-                                <img src="/img/{{ $gambar->gambar }}" class="image" alt="{{ $gambar->judul }}">
+                                <img src="{{ $gambar->gambar }}" class="image" alt="{{ $gambar->judul }}">
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">{{ $gambar->judul }}</h5>
                                     <span class="card-text fs-6">{{ $gambar->jenis }}</span>
@@ -46,7 +46,25 @@
             </div>
         </div>
         <div class="tab-pane fade" id="pills-dekstop" role="tabpanel" aria-labelledby="pills-dekstop-tab" tabindex="0">
-            ...</div>
+            <div class="container">
+                <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4" data-aos="fade-down" data-aos-duration="1000"
+                    data-aos-delay="150" data-aos-once="false">
+                    @foreach ($desktop as $desktop)
+                    <div class="col">
+                        <a href="/detail/{{ $desktop->id }}">
+                            <div class="card kartu-hasil text-white border-0">
+                                <img src="{{ $desktop->gambar }}" class="image" alt="{{$desktop->judul}}">
+                                <div class="card-img-overlay">
+                                    <h5 class="card-title">{{ $desktop->judul }}</h5>
+                                    <span class="card-text fs-6">{{ $desktop->jenis }}</span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    @endforeach
+                </div>
+            </div>
+        </div>
         <div class="tab-pane fade" id="pills-website" role="tabpanel" aria-labelledby="pills-website-tab" tabindex="0">
             <div class="container">
                 <div class="row row-cols-1 row-cols-md-3 g-4 pt-3 pb-4" data-aos="fade-down" data-aos-duration="1000"
@@ -55,7 +73,7 @@
                     <div class="col">
                         <a href="/detail/{{ $website->id }}">
                             <div class="card kartu-hasil text-white border-0">
-                                <img src="/img/{{ $website->gambar }}" class="image" alt="Akrilik Laser Cutting">
+                                <img src="{{ $website->gambar }}" class="image" alt="{{$website->judul}}">
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">{{ $website->judul }}</h5>
                                     <span class="card-text fs-6">{{ $website->jenis }}</span>
@@ -75,7 +93,7 @@
                     <div class="col">
                         <a href="/detail/{{ $iot->id }}">
                             <div class="card kartu-hasil text-white border-0">
-                                <img src="/img/{{ $iot->gambar }}" class="image" alt="Akrilik Laser Cutting">
+                                <img src="{{ $iot->gambar }}" class="image" alt="{{$iot->judul}}">
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">{{ $iot->judul }}</h5>
                                     <span class="card-text fs-6">{{ $iot->jenis }}</span>

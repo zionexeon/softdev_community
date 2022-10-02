@@ -23,8 +23,8 @@
             data-aos-once="false">
             <div class="carousel-item active" data-bs-interval="10000">
                 <div class="bg-transparent">
-                    <img src="/img/Mekar Laser Logo 3.png" class="d-block testimonial-img" alt="..."
-                        style="max-height: 4rem; margin:auto">
+                    <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641179/softdev/Mekar_Laser_Logo_3_pkcv6v.png"
+                        class="d-block testimonial-img" alt="..." style="max-height: 4rem; margin:auto">
                     <div class="card-body text-center mt-4">
                         <h5 class="card-title pb-3">Pak Wahyu - CEO CV. Mekar Laser Cutting Digital</h5>
                         <h6><i class="fa-solid fa-quote-left"></i> Saya sangat suka dengan hasilnya. Dari tampilan, cara

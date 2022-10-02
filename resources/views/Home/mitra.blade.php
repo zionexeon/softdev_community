@@ -8,8 +8,8 @@
         <div class="row row-cols-1 row-cols-md-3 g-4">
             <div class="col">
                 <div class="card border-0">
-                    <img src="/img/Mekar Laser Logo 2.png" alt="" style="max-width: 400px; min-width: 100%;"
-                        class="mb-5 mt-4">
+                    <img src="https://res.cloudinary.com/dnmkw2715/image/upload/v1664641177/softdev/Mekar_Laser_Logo_2_k47yqk.png"
+                        alt="" style="max-width: 400px; min-width: 100%;" class="mb-5 mt-4">
                 </div>
             </div>
         </div>
