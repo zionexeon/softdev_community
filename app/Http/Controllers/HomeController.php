@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Image;
-
+use App\Models\Team;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -77,6 +77,13 @@ class HomeController extends Controller
     {
         return view('Home/payment', [
             "title" => "PEMBAYARAN"
+        ]);
+    }
+    public function album()
+    {
+        return view('Home/album', [
+            "title" => "Album Kegiatan",
+            "teams" => Team::all()
         ]);
     }
 }

@@ -38,6 +38,7 @@
                         <li><a href="/klien">Klien</a></li>
                         <li><a href="/team">Tim</a></li>
                         <li><a href="/testimoni">Testimoni</a></li>
+                        <li><a href="/album">Album Kegiatan</a></li>
                     </ul>
                 </div>
                 <div class="col-md">

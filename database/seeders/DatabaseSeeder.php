@@ -5,6 +5,7 @@ namespace Database\Seeders;
 use GuzzleHttp\Promise\Create;
 use Illuminate\Database\Seeder;
 use App\Models\Image;
+use App\Models\Team;
 
 class DatabaseSeeder extends Seeder
 {
@@ -70,6 +71,9 @@ class DatabaseSeeder extends Seeder
             "klien" => "SMKN 1 Purbalingga",
             "apk" => "Aplikasi Desktop",
             "link" => ""
+        ]);
+        Team::create([
+            "gambar" => "https://res.cloudinary.com/dnmkw2715/image/upload/v1664641191/softdev/team_fulpjw.jpg"
         ]);
     }
 }
