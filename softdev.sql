@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 02 Okt 2022 pada 06.55
+-- Waktu pembuatan: 02 Okt 2022 pada 11.14
 -- Versi server: 10.4.24-MariaDB
 -- Versi PHP: 7.4.29
 
@@ -47,11 +47,11 @@ CREATE TABLE `images` (
 --
 
 INSERT INTO `images` (`id`, `gambar`, `judul_detail`, `detail`, `rincian`, `judul`, `jenis`, `klien`, `apk`, `link`, `created_at`, `updated_at`) VALUES
-(1, 'https://res.cloudinary.com/dnmkw2715/image/upload/v1664641179/softdev/akrilik_jw6xhb.png', 'Aplikasi website Akrilik Laser Cutting', 'Project pertama aplikasi web dari softdev community yaitu landing page atau aplikasi web profil yang bernama Akrilik Laser Cutting', 'Laravel 8, PHP 7.4, Mysql, Bootstrap 5, etc', 'Akrilik Laser Cutting', 'Aplikasi Web', 'CV. Mekar Cutting Digital', 'Aplikasi Web', 'https://akriliklasercutting.com/', '2022-10-01 21:50:51', '2022-10-01 21:50:51'),
-(2, 'https://res.cloudinary.com/dnmkw2715/image/upload/v1664641187/softdev/bimahelm_wmyruz.png', 'Aplikasi website Bima Helm', 'Project aplikasi website ke dua dari softdev community dengan nama Bima Helm', 'Laravel 8, PHP 7.4, Mysql, Bootstrap 5, etc', 'Bima Helm', 'Aplikasi Web', 'CV. Mekar Cutting Digital', 'Aplikasi Web', 'https://bimahelm.com', '2022-10-01 21:50:51', '2022-10-01 21:50:51'),
-(3, 'https://res.cloudinary.com/dnmkw2715/image/upload/v1664641197/softdev/smegamart_bliwxd.png', 'Aplikasi website SmegaMart', 'Project aplikasi web ke tiga dari softdev community dengan nama SmegaMart', 'Laravel 8, PHP 7.4, Tailwind Css, Javascript, etc', 'SmegaMart', 'Aplikasi Web', 'SMKN 1 Purbalingga', 'Aplikasi Web', 'https://newsmegamart.com', '2022-10-01 21:50:51', '2022-10-01 21:50:51'),
-(4, 'https://res.cloudinary.com/dnmkw2715/image/upload/v1664641196/softdev/iot_iq9dor.png', 'Projek Prototype IOT', 'Projek lain dari softdev community yaitu Prototype IOT', 'Arduino', 'Prototype IOT', 'IOT', 'CV. Mekar Cutting Digital', 'IOT', '', '2022-10-01 21:50:51', '2022-10-01 21:50:51'),
-(5, 'https://res.cloudinary.com/dnmkw2715/image/upload/v1664685888/softdev/desktop_q03ec5.jpg', 'Aplikasi Desktop Kasir', 'Projek aplikasi desktop dari softdev community yaitu aplikasi desktop kasir', 'Java', 'Desktop Kasir', 'Aplikasi Desktop', 'SMKN 1 Purbalingga', 'Aplikasi Desktop', '', '2022-10-01 21:50:51', '2022-10-01 21:50:51');
+(1, 'https://res.cloudinary.com/dnmkw2715/image/upload/v1664641179/softdev/akrilik_jw6xhb.png', 'Aplikasi website Akrilik Laser Cutting', 'Project pertama aplikasi web dari softdev community yaitu landing page atau aplikasi web profil yang bernama Akrilik Laser Cutting', 'Laravel 8, PHP 7.4, Mysql, Bootstrap 5, etc', 'Akrilik Laser Cutting', 'Aplikasi Web', 'CV. Mekar Cutting Digital', 'Aplikasi Web', 'https://akriliklasercutting.com/', '2022-10-02 02:07:25', '2022-10-02 02:07:25'),
+(2, 'https://res.cloudinary.com/dnmkw2715/image/upload/v1664641187/softdev/bimahelm_wmyruz.png', 'Aplikasi website Bima Helm', 'Project aplikasi website ke dua dari softdev community dengan nama Bima Helm', 'Laravel 8, PHP 7.4, Mysql, Bootstrap 5, etc', 'Bima Helm', 'Aplikasi Web', 'CV. Mekar Cutting Digital', 'Aplikasi Web', 'https://bimahelm.com', '2022-10-02 02:07:26', '2022-10-02 02:07:26'),
+(3, 'https://res.cloudinary.com/dnmkw2715/image/upload/v1664641197/softdev/smegamart_bliwxd.png', 'Aplikasi website SmegaMart', 'Project aplikasi web ke tiga dari softdev community dengan nama SmegaMart', 'Laravel 8, PHP 7.4, Tailwind Css, Javascript, etc', 'SmegaMart', 'Aplikasi Web', 'SMKN 1 Purbalingga', 'Aplikasi Web', 'https://newsmegamart.com', '2022-10-02 02:07:26', '2022-10-02 02:07:26'),
+(4, 'https://res.cloudinary.com/dnmkw2715/image/upload/v1664641196/softdev/iot_iq9dor.png', 'Projek Prototype IOT', 'Projek lain dari softdev community yaitu Prototype IOT', 'Arduino', 'Prototype IOT', 'IOT', 'CV. Mekar Cutting Digital', 'IOT', '', '2022-10-02 02:07:26', '2022-10-02 02:07:26'),
+(5, 'https://res.cloudinary.com/dnmkw2715/image/upload/v1664685888/softdev/desktop_q03ec5.jpg', 'Aplikasi Desktop Kasir', 'Projek aplikasi desktop dari softdev community yaitu aplikasi desktop kasir', 'Java', 'Desktop Kasir', 'Aplikasi Desktop', 'SMKN 1 Purbalingga', 'Aplikasi Desktop', '', '2022-10-02 02:07:26', '2022-10-02 02:07:26');
 
 -- --------------------------------------------------------
 
@@ -100,9 +100,17 @@ CREATE TABLE `personal_access_tokens` (
 
 CREATE TABLE `teams` (
   `id` bigint(20) UNSIGNED NOT NULL,
+  `gambar` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data untuk tabel `teams`
+--
+
+INSERT INTO `teams` (`id`, `gambar`, `created_at`, `updated_at`) VALUES
+(1, 'https://res.cloudinary.com/dnmkw2715/image/upload/v1664641191/softdev/team_fulpjw.jpg', '2022-10-02 02:07:26', '2022-10-02 02:07:26');
 
 --
 -- Indexes for dumped tables
@@ -160,7 +168,7 @@ ALTER TABLE `personal_access_tokens`
 -- AUTO_INCREMENT untuk tabel `teams`
 --
 ALTER TABLE `teams`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

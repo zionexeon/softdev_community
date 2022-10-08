@@ -75,5 +75,14 @@ class DatabaseSeeder extends Seeder
         Team::create([
             "gambar" => "https://res.cloudinary.com/dnmkw2715/image/upload/v1664641191/softdev/team_fulpjw.jpg"
         ]);
+        Team::create([
+            "gambar" => "https://res.cloudinary.com/dnmkw2715/image/upload/v1665212542/softdev/team2_iajj9t.jpg"
+        ]);
+        Team::create([
+            "gambar" => "https://res.cloudinary.com/dnmkw2715/image/upload/v1665212543/softdev/team3_hyna9t.jpg"
+        ]);
+        Team::create([
+            "gambar" => "https://res.cloudinary.com/dnmkw2715/image/upload/v1665212551/softdev/team4_hrrcuy.jpg"
+        ]);
     }
 }

@@ -11,6 +11,7 @@
     <link rel="stylesheet" type="text/css" href="/fontawesome/css/all.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <link rel="icon" href="/img/SoftDev Logo.png">
+    <link rel="stylesheet" href="{{ asset('assets/glightbox/dist/css/glightbox.min.css') }}">
 </head>
 
 <body>
@@ -76,6 +77,13 @@
         AOS.init();
     </script>
     <script src="/js/animation.js"></script>
+    <script src="{{ asset('assets/glightbox/dist/js/glightbox.min.js') }}"></script>
+    <script>
+        var lightbox = GLightbox();
+            lightbox.on('open', (target) => {
+                console.log('lightbox opened');
+            });
+    </script>
 </body>
 
 </html>
